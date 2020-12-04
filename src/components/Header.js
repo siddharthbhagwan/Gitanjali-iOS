@@ -1,16 +1,25 @@
 import React from 'react';
-import { StyleSheet, Text } from 'react-native';
+import { StyleSheet, Text, TouchableOpacity } from 'react-native';
+// import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+// import { faListUl } from '@fortawesome/free-solid-svg-icons';
 
-const Header = () => {
-	return <Text style={styles.header}>Gitanjali by Rabindranath Tagore</Text>;
-};
+const Header = ({ toggleDrawer }) => (
+	<Text style={styles.header}>
+		<Text style={styles.menu}>
+			<TouchableOpacity onPress={toggleDrawer}>
+				<Text>Gitanjali</Text>
+			</TouchableOpacity>
+		</Text>
+	</Text>
+);
 
 const styles = StyleSheet.create({
 	header: {
-		textAlign: 'center',
 		marginTop: 30,
 		marginBottom: 30,
-		fontSize: 20,
+		fontSize: 28,
+		fontFamily: 'meta-normal',
+		textAlign: 'center',
 	},
 });
 
