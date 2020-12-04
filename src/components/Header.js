@@ -3,10 +3,10 @@ import { StyleSheet, Text, TouchableOpacity } from 'react-native';
 // import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 // import { faListUl } from '@fortawesome/free-solid-svg-icons';
 
-const Header = ({ toggleDrawer }) => (
+const Header = ({ setDrawer }) => (
 	<Text style={styles.header}>
 		<Text style={styles.menu}>
-			<TouchableOpacity onPress={toggleDrawer}>
+			<TouchableOpacity onPress={() => setDrawer((drawer) => !drawer)}>
 				<Text>Gitanjali</Text>
 			</TouchableOpacity>
 		</Text>
