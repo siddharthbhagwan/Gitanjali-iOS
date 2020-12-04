@@ -1,34 +1,22 @@
-import { StatusBar } from 'expo-status-bar';
 import React from 'react';
-import { StyleSheet, Text, SafeAreaView } from 'react-native';
-import chapters from './assets/chapters.js';
+import { StyleSheet, SafeAreaView } from 'react-native';
+import Header from './src/components/Header.js';
+import Chapters from './src/components/Chapters';
+import { StatusBar } from 'expo-status-bar';
 
 export default function App() {
-  return (
-    <SafeAreaView style={styles.container}>
-      {Object.keys(chapters).map((no) => (
-        <>
-          <Text style={styles.chapter}>{no}</Text>
-          <Text style={styles.chapter}>{chapters[no]}</Text>
-        </>
-      ))}
-
-      <StatusBar style="auto" />
-    </SafeAreaView>
-  );
+	return (
+		<SafeAreaView style={styles.container}>
+			<Header />
+			<Chapters />
+			<StatusBar style="auto" />
+		</SafeAreaView>
+	);
 }
 
 const styles = StyleSheet.create({
-  container: {
-    flex: 1,
-    backgroundColor: '#fff',
-    alignItems: 'center',
-    justifyContent: 'center',
-  },
-  chapter: {
-    marginTop: 15,
-    marginBottom: 15,
-    marginLeft: 40,
-    marginRight: 40,
-  },
+	container: {
+		flex: 1,
+		backgroundColor: '#fff',
+	},
 });
