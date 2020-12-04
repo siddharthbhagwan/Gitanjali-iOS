@@ -1,0 +1,1 @@
+{"ast":null,"code":"var chapter = 'sdasdas';\nexport default chapter;","map":{"version":3,"sources":["/Users/sbhagwan/Documents/workspace/Gitanjali-iOS/assets/chapters/1.js"],"names":["chapter"],"mappings":"AAAA,IAAMA,OAAO,GAAG,SAAhB;AAEA,eAAeA,OAAf","sourcesContent":["const chapter = 'sdasdas';\n\nexport default chapter;\n"]},"metadata":{},"sourceType":"module"}
