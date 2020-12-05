@@ -1,14 +1,13 @@
 import React from 'react';
 import { StyleSheet, Text } from 'react-native';
+import { BlurView } from 'expo-blur';
 
-const Verse = ({ verseNo, text, drawer }) => {
-	return (
-		<>
-			<Text style={[styles.verse, styles.verseNo]}>{verseNo}</Text>
-			<Text style={[styles.verse, drawer ? styles.blur : null]}>{text}</Text>
-		</>
-	);
-};
+const Verse = ({ verseNo, text }) => (
+	<>
+		<Text style={[styles.verse, styles.verseNo]}>{verseNo}</Text>
+		<Text style={[styles.verse]}>{text}</Text>
+	</>
+);
 
 const styles = StyleSheet.create({
 	verse: {
@@ -24,7 +23,6 @@ const styles = StyleSheet.create({
 		fontSize: 25,
 		textAlign: 'center',
 	},
-	blur: { color: 'transparent', textShadow: '0 0 5px #000' },
 });
 
 export default Verse;
