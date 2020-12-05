@@ -12,7 +12,7 @@ import Sidebar from './src/components/Sidebar';
 // import { faListUl, faThLarge } from '@fortawesome/free-solid-svg-icons';
 
 export default function App() {
-	const [verseNo, setVerseNo] = useState(2);
+	const [verseNo, setVerseNo] = useState(1);
 	const [drawer, setDrawer] = useState(false);
 
 	const [isLoaded] = useFonts({
