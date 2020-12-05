@@ -13,6 +13,7 @@
     "@fortawesome/react-fontawesome": "^0.1.13",
     "@use-expo/font": "^2.0.0",
     "expo": "~39.0.2",
+    "expo-blur": "~8.2.0",
     "expo-font": "~8.3.0",
     "expo-status-bar": "~1.0.2",
     "react": "16.13.1",
