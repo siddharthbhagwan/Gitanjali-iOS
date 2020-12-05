@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { StyleSheet, SafeAreaView, TouchableOpacity, Text } from 'react-native';
+import { StyleSheet, SafeAreaView } from 'react-native';
 import Header from './src/components/Header.js';
 // import Footer from './src/components/Footer.js';
 import Verse from './src/components/Verse';
