@@ -37,7 +37,12 @@ export default function App() {
 					setDrawer={setDrawer}
 					setVerseNo={setVerseNo}
 				/>
-				<Verse key="chapters" verseNo={verseNo} text={verses[verseNo]} />
+				<Verse
+					key="chapters"
+					drawer={drawer}
+					verseNo={verseNo}
+					text={verses[verseNo]}
+				/>
 				{/* <Footer setVerseNo={setVerseNo} verseNo={verseNo} /> */}
 				<StatusBar style="auto" />
 			</SafeAreaView>
