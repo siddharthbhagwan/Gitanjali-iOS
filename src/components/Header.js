@@ -1,25 +1,19 @@
 import React from 'react';
 import { StyleSheet, Text, TouchableOpacity } from 'react-native';
-// import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-// import { faListUl } from '@fortawesome/free-solid-svg-icons';
 
 const Header = ({ setDrawer }) => (
-	<Text style={styles.header}>
-		<Text style={styles.menu}>
-			<TouchableOpacity onPress={() => setDrawer((drawer) => !drawer)}>
-				<Text>Gitanjali</Text>
-			</TouchableOpacity>
-		</Text>
-	</Text>
+	<TouchableOpacity onPress={() => setDrawer((drawer) => !drawer)}>
+		<Text style={styles.header}>Gitanjali</Text>
+	</TouchableOpacity>
 );
 
 const styles = StyleSheet.create({
 	header: {
+		fontSize: 28,
 		marginTop: 30,
 		marginBottom: 30,
-		fontSize: 28,
-		fontFamily: 'meta-normal',
 		textAlign: 'center',
+		fontFamily: 'meta-normal',
 	},
 });
 
