@@ -3,7 +3,7 @@ const verses = {
 		'Thou hast made me endless, such is thy pleasure. This frail vessel thou emptiest again and again, and fillest it ever with fresh life. \n \n' +
 		'This little flute of a reed thou hast carried over hills and dales, and hast breathed through it melodies eternally new. \n \n' +
 		'At the immortal touch of thy hands my little heart loses its limits in joy and gives birth to utterance ineffable. \n \n' +
-		'Thy infinite gifts come to me only on these very small hands of mine. Ages pass, and still thou pourest, and still there is room to fill.\n \n',
+		'Thy infinite gifts come to me only on these very small hands of mine. Ages pass, and still thou pourest, and still there is room to fill. \n \n',
 	2:
 		'When thou commandest me to sing it seems that my heart would break with pride; and I look to thy face, and tears come to my eyes. \n \n' +
 		'All that is harsh and dissonant in my life melts into one sweet harmony ⎯ and my adoration spreads wings like a glad bird on its flight across the sea. \n \n' +
@@ -32,13 +32,12 @@ const verses = {
 		'Though its colour be not deep and its smell be faint, use this flower in thy service and pluck it while there is time. \n \n',
 
 	7:
-		'My song has put off her adornments. \n \n ' +
-		'She has no pride of dress and decoration. Ornaments would mar our union; they would come between thee and me; their jingling would drown thy whispers. \n \n ' +
+		'My song has put off her adornments. \n \n' +
+		'She has no pride of dress and decoration. Ornaments would mar our union; they would come between thee and me; their jingling would drown thy whispers. \n \n' +
 		"My poet's vanity dies in shame before thy sight. O master poet, I have sat down at thy feet. Only let me make my life simple and straight, like a flute of reed for thee to fill with music. \n \n ",
 
 	8:
-		"The child who is decked with prince's robes and who has jewelled chains round his neck \n \n" +
-		'loses all pleasure in his play; his dress hampers him at every step. \n \n' +
+		"The child who is decked with prince's robes and who has jewelled chains round his neck loses all pleasure in his play; his dress hampers him at every step. \n \n" +
 		'In fear that it may be frayed, or stained with dust he keeps himself from the world, and is afraid even to move. \n \n' +
 		'Mother, it is no gain, thy bondage of finery, if it keep one shut off from the healthful dust of the earth, if it rob one of the right of entrance to the great fair of common human life. \n \n',
 	9:
@@ -47,10 +46,10 @@ const verses = {
 		'Thy desire at once puts out the light from the lamp it touches with its breath. \n \n' +
 		'It is unholy ⎯ take not thy gifts through its unclean hands. Accept only what is offered by sacred love. \n \n',
 	10:
-		'Here is thy footstool and there rest thy feet where live the poorest, and lowliest, and lost.\n \n' +
-		'When I try to bow to thee, my obeisance cannot reach down to the depth where thy feet rest among the poorest, and lowliest, and lost.\n \n' +
-		'Pride can never approach to where thou walkest in the clothes of the humble among the poorest, and lowliest, and lost.\n \n' +
-		'My heart can never find its way to where thou keepest company with the companionless among the poorest, the lowliest, and the lost.\n \n',
+		'Here is thy footstool and there rest thy feet where live the poorest, and lowliest, and lost. \n \n' +
+		'When I try to bow to thee, my obeisance cannot reach down to the depth where thy feet rest among the poorest, and lowliest, and lost. \n \n' +
+		'Pride can never approach to where thou walkest in the clothes of the humble among the poorest, and lowliest, and lost. \n \n' +
+		'My heart can never find its way to where thou keepest company with the companionless among the poorest, the lowliest, and the lost. \n \n',
 	11:
 		'Leave this chanting and singing and telling of beads! Whom dost thou worship in this lonely dark corner of a temple with doors all shut? Open thine eyes and see thy God is not before thee! \n \n' +
 		'He is there where the tiller is tilling the hard ground and where the path-maker is breaking stones. He is with them in sun and in shower, and his garment is covered with dust. Put off thy holy mantle and even like him come down on the dusty soil! \n \n' +
@@ -58,33 +57,32 @@ const verses = {
 		'Come out of thy meditations and leave aside thy flowers and incense! \n \n' +
 		'What harm is there if thy clothes become tattered and stained? Meet him and stand by him in toil and in sweat of thy brow. \n \n',
 	12:
-		'The time that my journey takes is long and the way of it long.\n \n' +
-		'I came out on the chariot of the first gleam of light, and pursued my voyage through the wildernesses of worlds leaving my track on many a star and planet.\n \n' +
-		'It is the most distant course that comes nearest to thyself, and that training is the most intricate which leads to the utter simplicity of a tune.\n \n' +
-		'The traveller has to knock at every alien door to come to his own, and one has to wander through all the outer worlds to reach the innermost shrine at the end.\n \n' +
+		'The time that my journey takes is long and the way of it long. \n \n' +
+		'I came out on the chariot of the first gleam of light, and pursued my voyage through the wildernesses of worlds leaving my track on many a star and planet. \n \n' +
+		'It is the most distant course that comes nearest to thyself, and that training is the most intricate which leads to the utter simplicity of a tune. \n \n' +
+		'The traveller has to knock at every alien door to come to his own, and one has to wander through all the outer worlds to reach the innermost shrine at the end. \n \n' +
 		'My eyes strayed far and wide before I shut them and said "Here art thou!"\n \n' +
 		'The question and the cry "Oh, where?" melt into tears of a thousand streams and deluge the world with the flood of the assurance "I am!"\n \n',
 	13:
-		'The song that I came to sing remains unsung to this day.\n \n ' +
-		'I have spent my days in stringing and in unstringing my instrument.\n \n ' +
-		'The time has not come true, the words have not been rightly set; only there is the agony of wishing in my heart.\n \n ' +
-		'The blossom has not opened; only the wind is sighing by.\n \n ' +
-		'I have not seen his face, nor have I listened to his voice; only I have heard his gentle footsteps from the road before my house.\n \n ' +
-		'The livelong1 day has passed in spreading his seat on the floor; but the lamp has not been lit and I cannot ask him into my house.\n \n ' +
-		'I live in the hope of meeting with him; but this meeting is not yet.\n \n ',
+		'The song that I came to sing remains unsung to this day. \n \n' +
+		'I have spent my days in stringing and in unstringing my instrument. \n \n' +
+		'The time has not come true, the words have not been rightly set; only there is the agony of wishing in my heart. \n \n' +
+		'The blossom has not opened; only the wind is sighing by. \n \n' +
+		'I have not seen his face, nor have I listened to his voice; only I have heard his gentle footsteps from the road before my house. \n \n' +
+		'The livelong day has passed in spreading his seat on the floor; but the lamp has not been lit and I cannot ask him into my house. \n \n' +
+		'I live in the hope of meeting with him; but this meeting is not yet. \n \n ',
 	14:
-		'My desires are many and my cry is pitiful, but ever didst thou save me by hard refusals;\n\n' +
-		'and this strong mercy has been wrought into my life through and through.\n\n' +
+		'My desires are many and my cry is pitiful, but ever didst thou save me by hard refusals; and this strong mercy has been wrought into my life through and through.\n\n' +
 		'Day by day thou art making me worthy of the simple, great gifts that thou gavest to me unasked ⎯ this sky and the light, this body and the life and the mind ⎯ saving me from perils of overmuch desire.\n\n' +
 		'There are times when I languidly linger and times when I awaken and hurry in search of my goal; but cruelly thou hidest thyself from before me.\n\n' +
 		'Day by day thou art making me worthy of thy full acceptance by refusing me ever and anon1, saving me from perils of weak, uncertain desire.\n\n',
 	15:
-		'I Am here to sing thee songs. In this hall of thine I have a corner seat.\n\n' +
+		'I am here to sing thee songs. In this hall of thine I have a corner seat.\n\n' +
 		'In thy world I have no work to do; my useless life can only break out in tunes without a purpose.\n\n' +
 		'When the hour strikes for thy silent worship at dark temple of midnight, command me, my master, to stand before thee to sing.\n\n' +
 		'When in the morning air the golden harp is tuned, honour me, commanding my presence.\n\n',
 	16:
-		"I HAVE had my invitation to this world's festival, and thus my life has been blessed. My eyes have seen and my ears have heard. \n\n" +
+		"I have had my invitation to this world's festival, and thus my life has been blessed. My eyes have seen and my ears have heard. \n\n" +
 		'It was my part at this feast to play upon my instrument, and I have done all I could.\n\n' +
 		'Now, I ask, has the time come at last when I may go in and see thy face and offer thee my silent salutation?\n\n' +
 		'I Am only waiting for love to give myself up at last into his hands. That is why it is so late and why I have been guilty of such omissions.\n\n',
@@ -197,10 +195,8 @@ const verses = {
 		'I thought that my voyage had come to its end at the last limit of my power,---that the path before me was closed, that provisions were exhausted and the time come to take shelter in a silent obscurity. \n\n' +
 		'But I find that thy will knows no end in me. And when old words die out on the tongue, new melodies break forth from the heart; and where the old tracks are lost, new country is revealed with its wonders.  \n\n',
 	38:
-		'That I want thee, only thee ⎯ let my heart repeat without end. All desires that distract \n\n' +
-		'me, day and night, are false and empty to the core. \n\n' +
-		'As the night keeps hidden in its gloom the petition for light, even thus in the depth of my \n\n' +
-		'unconsciousness rings the cry ⎯ I want thee, only thee. \n\n' +
+		'That I want thee, only thee ⎯ let my heart repeat without end. All desires that distract me, day and night, are false and empty to the core. \n\n' +
+		'As the night keeps hidden in its gloom the petition for light, even thus in the depth of my unconsciousness rings the cry ⎯ I want thee, only thee. \n\n' +
 		'As the storm still seeks its end in peace when it strikes against peace with all its might, even thus my rebellion strikes against thy love and still its cry is ⎯ I want thee, only thee. \n\n',
 	39:
 		'When the heart is hard and parched up, come upon me with a shower of mercy.\n\n' +
@@ -212,17 +208,14 @@ const verses = {
 		'The rain has held back for days and days, my God, in my arid heart. The horizon is fiercely naked ⎯ not the thinnest cover of a soft cloud, not the vaguest hint of a distant cool shower.\n\n' +
 		'Send thy angry storm, dark with death, if it is thy wish, and with lashes of lightning startle the sky from end to end.\n\n' +
 		'But call back, my lord, call back this pervading silent heat, still and keen and cruel, burning the heart with dire despair.\n\n' +
-		"Let the cloud of grace bend low from above like the tearful look of the mother on the day of the father's wrath.\n\n" +
-		'Painted by Abanindranath Tagore\n\n' +
-		'The RAIN HAS HELD BACK FOR DAYS\n\n',
+		"Let the cloud of grace bend low from above like the tearful look of the mother on the day of the father's wrath.\n\n",
 	41:
 		'Where dost thou stand behind them all, my lover, hiding thyself in the shadows? They push thee and pass thee by on the dusty road, taking thee for naught. I wait here weary hours spreading my offerings for thee, while passers by come and take my flowers, one by one, and my basket is nearly empty33The morning time is past, and the noon. In the shade of evening my eyes are drowsy with sleep. Men going home glance at me and smile and fill me with shame. I sit like a beggar maid, drawing my skirt over my face, and when they ask me, what it is I want, I drop my eyes and answer them not.\n\n' +
 		'Oh, how, indeed, could I tell them that for thee I wait, and that thou hast promised to come. How could I utter for shame that I keep for my dowry this poverty. Ah, I hug this pride in the secret of my heart.\n\n' +
 		'I sit on the grass and gaze upon the sky and dream of the sudden splendour of thy coming ⎯ all the lights ablaze, golden pennons flying over thy car, and they at the roadside standing agape, when they see thee come down from thy seat to raise me from the dust, and set at thy side this ragged beggar girl a-tremble1 with shame and pride, like a creeper in a summer breeze.\n\n' +
 		'But time glides on and still no sound of the wheels of thy chariot. Many a procession passes by with noise and shouts and glamour of glory. Is it only thou who wouldst stand in the shadow silent and behind them all? And only I who would wait and weep and wear out my heart in vain longing?\n\n',
 	42:
-		'Early in the day it was whispered that we should sail in a boat, only thou and I, and\n\n' +
-		'never a soul in the world would know of this our pilgrimage to no country and to no end.\n\n' +
+		'Early in the day it was whispered that we should sail in a boat, only thou and I, and never a soul in the world would know of this our pilgrimage to no country and to no end.\n\n' +
 		'In that shoreless ocean, at thy silently listening smile my songs would swell in melodies, free as waves, free from all bondage of words.\n\n' +
 		'Is the time not come yet? Are there works still to do? Lo, the evening has come down upon the shore and in the fading light the seabirds come flying to their nests.\n\n' +
 		'Who knows when the chains will be off, and the boat, like the last glimmer of sunset, vanish into the night?\n\n',
@@ -231,8 +224,7 @@ const verses = {
 		'And to-day when by chance I light upon them and see thy signature, I find they have lain scattered in the dust mixed with the memory of joys and sorrows of my trivial days forgotten.\n\n' +
 		'Thou didst not turn in contempt from my childish play among dust, and the steps that I heard in my playroom are the same that are echoing from star to star.\n\n',
 	44:
-		'This is my delight, thus to wait and watch at the wayside where shadow chases light\n\n' +
-		'and the rain comes in the wake of the summer.\n\n' +
+		'This is my delight, thus to wait and watch at the wayside where shadow chases light and the rain comes in the wake of the summer.\n\n' +
 		'Messengers, with tidings from unknown skies, greet me and speed along the road. My heart is glad within, and the breath of the passing breeze is sweet.\n\n' +
 		'From dawn till dusk I sit here before my door, and I know that of a sudden the happy moment will arrive when I shall see.\n\n' +
 		'In the meanwhile I smile and I sing all alone. In the meanwhile the air is filling with the perfume of promise.\n\n',
@@ -263,7 +255,7 @@ const verses = {
 		'The repose of the sun-embroidered green gloom slowly spread over my heart. I forgot for what I had travelled, and I surrendered my mind without struggle to the maze of shadows and songs.\n\n' +
 		'At last, when I woke from my slumber and opened my eyes, I saw thee standing by me, flooding my sleep with thy smile. How I had feared that the path was long and wearisome, and the struggle to reach thee was hard!\n\n',
 	49:
-		'YOU came down from your throne and stood at my cottage door.\n\n' +
+		'You came down from your throne and stood at my cottage door.\n\n' +
 		'I was singing all alone in a corner, and the melody caught your ear. You came down and stood at my cottage door. \n\n' +
 		'Masters are many in your hall, and songs are sung there at all hours. But the simple carol of this novice struck at your love. One plaintive little strain mingled with the great music of the world, and with a flower for a prize you came down and stopped at my cottage door.\n\n',
 	50:
@@ -292,14 +284,13 @@ const verses = {
 		"I asked nothing from thee; I uttered not my name to thine ear. When thou took'st thy leave I stood silent. I was alone by the well where the shadow of the tree fell aslant, and the women had gone home with their brown earthen pitchers full to the brim. They called me and shouted, 'Come with us, the morning is wearing on to noon.' But I languidly lingered awhile lost in the midst of vague musings.\n\n" +
 		"I heard not thy steps as thou camest. Thine eyes were sad when they fell on me; thy voice was tired as thou spokest low ⎯ 'Ah, I am a thirsty traveller.' I started up from my day-dreams and poured water from my jar on thy joined palms. The leaves rustled overhead; the cuckoo sang from the unseen dark, and perfume of babla flowers came from the bend of the road.I stood speechless with shame when my name thou didst ask. Indeed, what had I done for thee to keep me in remembrance? But the memory that I could give water to thee to allay thy thirst will cling to my heart and enfold it in sweetness. The morning hour is late, the bird sings in weary notes, neem leaves rustle overhead and I sit and think and think.\n\n",
 	55:
-		'LANGUOR is upon your heart and the slumber is still on your eyes.\n\n' +
+		'Langour is upon your heart and the slumber is still on your eyes.\n\n' +
 		'Has not the word come to you that the flower is reigning in splendour among thorns? Wake, oh awaken! Let not the time pass in vain!\n\n' +
 		'At the end of the stony path, in the country of virgin solitude my friend is sitting all alone. Deceive him not. Wake, oh awaken!\n\n' +
 		'What if the sky pants and trembles with the heat of the midday sun ⎯ what if the burning sand spreads its mantle of thirst ⎯\n\n' +
 		'Is there no joy in the deep of your heart? At every footfall of yours, will not the harp of the road break out in sweet music of pain?\n\n',
 	56:
-		'THUS it is that thy joy in me is so full. Thus it is that thou hast come down to me. O\n\n' +
-		'thou lord of all heavens, where would be thy love if I were not?\n\n' +
+		'Thus it is that thy joy in me is so full. Thus it is that thou hast come down to me. O thou lord of all heavens, where would be thy love if I were not?\n\n' +
 		'Thou hast taken me as thy partner of all this wealth. In my heart is the endless play of thy delight. In my life thy will is ever taking shape.\n\n' +
 		'And for this, thou who art the King of kings hast decked thyself in beauty to captivate my heart. And for this thy love loses itself in the love of thy lover, and there art thou seen in the perfect union of two.\n\n',
 	57:
@@ -337,7 +328,7 @@ const verses = {
 		"In the moonless gloom of midnight I asked her, 'Maiden, what is your quest holding the lamp near your heart? My house is all dark and lonesome, ⎯ lend me your light.' She stopped for a minute and thought and gazed at my face in the dark. 'I have brought my\n\n" +
 		"light,' she said, 'to join the carnival of lamps.' I stood and watched her little lamp uselessly lost among lights.\n\n",
 	65:
-		'WHAT divine drink wouldst thou have, my God, from this overflowing cup of my life?\n\n' +
+		'What divine drink wouldst thou have, my God, from this overflowing cup of my life?\n\n' +
 		'My poet, is it thy delight to see thy creation through my eyes and to stand at the portals of my ears silently to listen to thine own eternal harmony?\n\n' +
 		'Thy world is weaving words in my mind and thy joy is adding music to them. Thou givest thyself to me in love and then feelest thine own entire sweetness in me.\n\n',
 	66:
@@ -363,15 +354,12 @@ const verses = {
 		'It is the same life that is rocked in the ocean-cradle of birth and of death, in ebb and in flow.\n\n' +
 		'I feel my limbs are made glorious by the touch of this world of life. And my pride is from the life-throb of ages dancing in my blood this moment.\n\n',
 	70:
-		'IS it beyond thee to be glad with the gladness of this rhythm? To be tossed and lost and\n\n' +
-		'broken in the whirl of this fearful joy?\n\n' +
+		'Is it beyond thee to be glad with the gladness of this rhythm? To be tossed and lost and broken in the whirl of this fearful joy?\n\n' +
 		'All things rush on, they stop not, they look not behind, no power can hold them back, they rush on.\n\n' +
 		'Keeping steps with that restless, rapid music, seasons come dancing and pass away ⎯ colours, tunes, and perfumes pour in endless cascades in the abounding joy that scatters and gives up and dies every moment.\n\n',
 	71:
-		'THAT I should make much of myself and turn it on all sides, thus casting coloured\n\n' +
-		'shadows on thy radiance ⎯ such is thy maya.\n\n' +
-		'Thou settest a barrier in thine own being and then callest thy severed self in myriad\n\n' +
-		'notes. This thy self-separation has taken body in me.\n\n' +
+		'That I should make much of myself and turn it on all sides, thus casting coloured shadows on thy radiance ⎯ such is thy maya.\n\n' +
+		'Thou settest a barrier in thine own being and then callest thy severed self in myriad notes. This thy self-separation has taken body in me.\n\n' +
 		'The poignant song is echoed through all the sky in many-coloured tears and smiles, alarms and hopes; waves rise up and sink again, dreams break and form. In me is thy own defeat of self.\n\n' +
 		'This screen that thou hast raised is painted with innumerable figures with the brush of the night and the day. Behind it thy seat is woven in wondrous mysteries of curves, casting away all barren lines of straightness.\n\n' +
 		'The great pageant of thee and me has overspread the sky. With the tune of thee and me all the air is vibrant, and all ages pass with the hiding and seeking of thee and me.\n\n',
@@ -381,15 +369,13 @@ const verses = {
 		'He it is who weaves the web of this maya in evanescent hues of gold and silver, blue and green, and lets peep out through the folds his feet, at whose touch I forget myself.\n\n' +
 		'Days come and ages pass, and it is ever he who moves my heart in many a name, in many a guise, in many a rapture of joy and of sorrow.\n\n',
 	73:
-		'DELIVERANCE is not for me in renunciation. I feel the embrace of freedom in a\n\n' +
-		'thousand bonds of delight.\n\n' +
+		'Deliverance is not for me in renunciation. I feel the embrace of freedom in a thousand bonds of delight.\n\n' +
 		'Thou ever pourest for me the fresh draught of thy wine of various colours and fragrance, filling this earthen vessel to the brim.\n\n' +
 		'My world will light its hundred different lamps with thy flame and place them before the altar of thy temple.\n\n' +
 		'No, I will never shut the doors of my senses. The delights of sight and hearing and touch will bear thy delight.\n\n' +
 		'Yes, all my illusions will burn into illumination of joy, and all my desires ripen into fruits of love.\n\n',
 	74:
-		'The day is no more, the shadow is upon the earth. It is time that I go to the stream to fill\n\n' +
-		'my pitcher.\n\n' +
+		'The day is no more, the shadow is upon the earth. It is time that I go to the stream to fill my pitcher.\n\n' +
 		'The evening air is eager with the sad music of the water. Ah, it calls me out into the dusk. In the lonely lane there is no passer by, the wind is up, the ripples are rampant in the river.52\n\n' +
 		'I know not if I shall come back home. I know not whom I shall chance to meet. There at the fording in the little boat the unknown man plays upon his lute.\n\n',
 	75:
@@ -398,13 +384,12 @@ const verses = {
 		'The flower sweetens the air with its perfume; yet its last service is to offer itself to thee. Thy worship does not impoverish the world.\n\n' +
 		'From the words of the poet men take what meanings please them; yet their last meaning points to thee.\n\n',
 	76:
-		'Day after Day, O lord of my life, shall I stand before thee face to face? With folded\n\n' +
-		'hands, O lord of all worlds, shall I stand before thee face to face?\n\n' +
+		'Day after Day, O lord of my life, shall I stand before thee face to face? With folded hands, O lord of all worlds, shall I stand before thee face to face?\n\n' +
 		'Under thy great sky in solitude and silence, with humble heart shall I stand before thee face to face?\n\n' +
 		'In this laborious world of thine, tumultuous with toil and with struggle, among hurrying crowds shall I stand before thee face to face?\n\n' +
 		'And when my work shall be done in this world, O King of kings, alone and speechless shall I stand before thee face to face?\n\n',
 	77:
-		"I KNOW thee as my God and stand apart ⎯ I do not know thee as my own and come closer. I know thee as my father and bow before thy feet ⎯ I do not grasp thy hand as my friend's.\n\n" +
+		"I know thee as my God and stand apart ⎯ I do not know thee as my own and come closer. I know thee as my father and bow before thy feet ⎯ I do not grasp thy hand as my friend's.\n\n" +
 		'I stand not where thou comest down and ownest thyself as mine, there to clasp thee to my heart and take thee as my comrade.\n\n' +
 		'Thou art the Brother amongst my brothers, but I heed them not, I divide not my earnings with them, thus sharing my all with thee.\n\n' +
 		'In pleasure and in pain I stand not by the side of men, and thus stand by thee. I shrink to give up my life, and thus do not plunge into the great waters of life.\n\n',
@@ -424,52 +409,48 @@ const verses = {
 		'If this be thy wish and if this be thy play, then take this fleeting emptiness of mine, paint it with colours, gild it with gold, float it on the wanton wind and spread it in varied wonders.\n\n' +
 		'And again when it shall be thy wish to end this play at night, I shall melt and vanish away in the dark, or it may be in a smile of the white morning, in a coolness of purity transparent.\n\n',
 	81:
-		'On many an idle day have I grieved over lost time. But it is never lost, my lord. Thou\n\n' +
-		'hast taken every moment of my life in thine own hands.\n\n' +
+		'On many an idle day have I grieved over lost time. But it is never lost, my lord. Thou hast taken every moment of my life in thine own hands.\n\n' +
 		'Hidden in the heart of things thou art nourishing seeds into sprouts, buds into blossoms, and ripening flowers into fruitfulness.\n\n' +
 		'I was tired and sleeping on my idle bed and imagined all work had ceased. In the morning I woke up and found my garden full with wonders of flowers.\n\n',
 	82:
-		'TIME is endless in thy hands, my lord. There is none to count thy minutes.\n\n' +
+		'Time is endless in thy hands, my lord. There is none to count thy minutes.\n\n' +
 		'Days and nights pass and ages bloom and fade like flowers. Thou knowest how to wait.\n\n' +
 		'Thy centuries follow each other perfecting a small wild flower.\n\n' +
 		'We have no time to lose, and having no time we must scramble for our chances. We are too poor to be late.\n\n' +
 		'And thus it is that time goes by while I give it to every querulous1 man who claims it, and thine altar is empty of all offerings to the last.\n\n' +
 		'At the end of the day I hasten in fear lest thy gate be shut; but I find that yet there is time.\n\n',
 	83:
-		'MOTHER, I shall weave a chain of pearls for thy neck with my tears of sorrow.\n\n' +
+		'Mother, I shall weave a chain of pearls for thy neck with my tears of sorrow.\n\n' +
 		'The stars have wrought their anklets of light to deck thy feet, but mine will hang upon thy breast.\n\n' +
 		'Wealth and fame come from thee and it is for thee to give or to withhold them. But this my sorrow is absolutely mine own, and when I bring it to thee as my offering thou rewardest me with thy grace.\n\n',
 	84:
-		'IT is the pang of separation that spreads throughout the world and gives birth to shapes\n\n' +
-		'innumerable in the infinite sky.\n\n' +
+		'IT is the pang of separation that spreads throughout the world and gives birth to shapes innumerable in the infinite sky.\n\n' +
 		'It is this sorrow of separation that gazes in silence all night from star to star and becomes lyric among rustling leaves in rainy darkness of July.\n\n' +
 		"It is this overspreading pain that deepens into loves and desires, into sufferings and joys in human homes; and this it is that ever melts and flows in songs through my poet's heart.\n\n",
 	85:
-		"When the warriors came out first from their master's hall, where had they hid their\n\n" +
-		'power? Where were their armour and their arms?\n\n' +
+		"When the warriors came out first from their master's hall, where had they hid their power? Where were their armour and their arms?\n\n" +
 		"They looked poor and helpless, and the arrows were showered upon them on the day they came out from their master's hall.\n\n" +
 		"When the warriors marched back again to their master's hall where did they hide their power?\n\n" +
 		"They had dropped the sword and dropped the bow and the arrow; peace was on their foreheads, and they had left the fruits of their life behind them on the day they marched back again to their master's hall.\n\n",
 	86:
-		'DEATH, thy servant, is at my door. He has crossed the unknown sea and brought thy\n\n' +
-		'call to my home.\n\n' +
+		'Death, thy servant, is at my door. He has crossed the unknown sea and brought thy call to my home.\n\n' +
 		'The night is dark and my heart is fearful yet I will take up the lamp, open my gates and bow to him my welcome. It is thy messenger who stands at my door.\n\n' +
 		'I will worship him with folded hands, and with tears. I will worship him placing at his feet the treasure of my heart.\n\n' +
 		'He will go back with his errand done, leaving a dark shadow on my morning; and in my desolate home only my forlorn self will remain as my last offering to thee.\n\n',
 	87:
-		'IN desperate hope I go and search for her in all the corners of my room; I find her not.\n\n' +
+		'In desperate hope I go and search for her in all the corners of my room; I find her not.\n\n' +
 		'My house is small and what once has gone from it can never be regained. But infinite is thy mansion, my lord, and seeking her I have come to thy door. I stand under the golden canopy of thine evening sky and I lift my eager eyes to thy face.\n\n' +
 		'I have come to the brink of eternity from which nothing can vanish ⎯ no hope, no happiness, no vision of a face seen through tears.\n\n' +
 		'Oh, dip my emptied life into that ocean, plunge it into the deepest fullness. Let me for once feel that lost sweet touch in the allness of the universe.\n\n',
 	88:
-		'DEITY of the ruined temple! The broken strings of Vina sing no more your praise. The bells in the evening proclaim not your time of worship. The air is still and silent about you.\n\n' +
+		'Diety of the ruined temple! The broken strings of Vina sing no more your praise. The bells in the evening proclaim not your time of worship. The air is still and silent about you.\n\n' +
 		'In your desolate dwelling comes the vagrant spring breeze. It brings the tidings of flowers ⎯ the flowers that for your worship are offered no more.\n\n' +
 		'Your worshipper of old wanders ever longing for favour still refused. In the eventide, when fires and shadows mingle with the gloom of dust, he wearily comes back to the ruined temple with hunger in his heart.\n\n' +
 		'Many a festival day comes to you in silence, deity of the ruined temple. Many a night of worship goes away with lamp unlit.\n\n' +
 		'Many new images are built by masters of cunning art and carried to the holy stream of oblivion when their time is come.\n\n' +
 		'Only the deity of the ruined temple remains unworshipped in deathless neglect.\n\n',
 	89:
-		"NO more noisy, loud words from me ⎯ such is my master's will. Henceforth I deal in\n\n" +
+		"No more noisy, loud words from me ⎯ such is my master's will. Henceforth I deal in\n\n" +
 		'whispers. The speech of my heart will be carried on in murmurings of a song.\n\n' +
 		"Men hasten to the King's market. All the buyers and sellers are there. But I have my untimely leave in the middle of the day, in the thick of work.\n\n" +
 		'Let then the flowers come out in my garden, though it is not their time and let the midday bees strike up their lazy hum.\n\n' +
@@ -484,22 +465,22 @@ const verses = {
 		'All that I am, that I have, that I hope and all my love have ever flowed towards thee in depth of secrecy. One final glance from thine eyes and my life will be ever thine own.\n\n' +
 		'The flowers have been woven and the garland is ready for the bridegroom. After the wedding the bride shall leave her home and meet her lord alone in the solitude of night.\n\n',
 	92:
-		'I KNOW that the day will come when my sight of this earth shall be lost, and life will take\n\n' +
+		'I know that the day will come when my sight of this earth shall be lost, and life will take\n\n' +
 		'its leave in silence, drawing the last curtain over my eyes.\n\n' +
 		'Yet stars will watch at night, and morning rise as before, and hours heave like sea waves casting up pleasures and pains.\n\n' +
 		'When I think of this end of my moments, the barrier of the moments breaks and I see by the light of death thy world with its careless treasures. Rare is its lowliest seat, rare is its meanest of lives.\n\n' +
 		'Things that I longed for in vain and things that I got ⎯ let them pass. Let me but truly possess the things that I ever spurned and overlooked.\n\n',
 	98:
-		'I HAVE got my leave. Bid me farewell, my brothers! I bow to you all and take my departure.\n\n' +
+		'I have got my leave. Bid me farewell, my brothers! I bow to you all and take my departure.\n\n' +
 		'Here I give back the keys of my door ⎯ and I give up all claims to my house. I only ask for last kind words from you.\n\n' +
 		'We were neighbours for long, but I received more than I could give. Now the day has dawned and the lamp that lit my dark corner is out. A summons has come and I am ready for my journey.\n\n',
 	94:
-		'AT this time of my parting, wish me good luck, my friends! The sky is flushed with the\n\n' +
+		'At this time of my parting, wish me good luck, my friends! The sky is flushed with the\n\n' +
 		'dawn and my path lies beautiful. Ask not what I have with me to take there. I start on my journey with empty hands and expectant heart.\n\n' +
 		'I shall put on my wedding garland. Mine is not the red-brown dress of the traveller, and though there are dangers on the way I have no fear in my mind.\n\n' +
 		"The evening star will come out when my voyage is done and the plaintive notes of the twilight melodies be struck up from the King's gateway.\n\n",
 	95:
-		'I WAS not aware of the moment when I first crossed the threshold of this life.\n\n' +
+		'I was not aware of the moment when I first crossed the threshold of this life.\n\n' +
 		'What was the power that made me open out into this vast mystery like a bud in the forest at midnight!\n\n' +
 		'When in the morning I looked upon the light I felt in a moment that I was no stranger in this world, that the inscrutable without name and form had taken me in its arms in the form of my own mother.\n\n' +
 		'Even so, in death the same unknown will appear as ever known to me. And because I love this life, I know I shall love death as well.\n\n' +
@@ -536,10 +517,8 @@ const verses = {
 		'It was my songs that taught me all the lessons I ever learnt; they showed me secret paths, they brought before my sight many a star on the horizon of my heart.\n\n' +
 		'They guided me all the day long to the mysteries of the country of pleasure and pain, and, at last, to what palace gate have they brought me in the evening at the end of my journey?\n\n',
 	102:
-		"I BOASTED among men that I had known you. They see your pictures in all works of mine. They come and ask me, 'Who is he?' I know not how to answer them. I say, 'Indeed, I cannot tell.' They blame me and they go away in scorn. And you sit there smiling.\n\n" +
-		"I put my tales of you into lasting songs. The secret gushes out from my heart. They come and ask me, 'Tell me all your meanings.' I know not how to answer them. I say, 'Ah, who knows what they mean!' They smile and go away in utter scorn. And you sit there smiling.\n\n" +
-		'Painted by Abanindranath Tagore\n\n' +
-		'EVER IN MY LIFE HAVE I SOUGHT THEE WITH MY SONGS\n\n',
+		"I boasted among men that I had known you. They see your pictures in all works of mine. They come and ask me, 'Who is he?' I know not how to answer them. I say, 'Indeed, I cannot tell.' They blame me and they go away in scorn. And you sit there smiling.\n\n" +
+		"I put my tales of you into lasting songs. The secret gushes out from my heart. They come and ask me, 'Tell me all your meanings.' I know not how to answer them. I say, 'Ah, who knows what they mean!' They smile and go away in utter scorn. And you sit there smiling.\n\n",
 	103:
 		'In one salutation to thee, my God, let all my senses spread out and touch this world at thy feet.\n\n' +
 		'Like a rain-cloud of July hung low with its burden of unshed showers let all my mind bend down at thy door in one salutation to thee.65\n\n' +

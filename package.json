@@ -34,5 +34,6 @@
     "assets": [
       "./assets/fonts/"
     ]
-  }
+  },
+  "name": "Gitanjali"
 }
