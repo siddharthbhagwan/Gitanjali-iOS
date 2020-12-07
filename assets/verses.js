@@ -1,75 +1,75 @@
 const verses = {
 	1:
-		'Thou hast made me endless, such is thy pleasure. This frail vessel thou emptiest again and again, and fillest it ever with fresh life. \n \n' +
-		'This little flute of a reed thou hast carried over hills and dales, and hast breathed through it melodies eternally new. \n \n' +
-		'At the immortal touch of thy hands my little heart loses its limits in joy and gives birth to utterance ineffable. \n \n' +
+		'Thou hast made me endless, such is thy pleasure. This frail vessel thou emptiest again and again, and fillest it ever with fresh life.\n \n' +
+		'This little flute of a reed thou hast carried over hills and dales, and hast breathed through it melodies eternally new.\n \n' +
+		'At the immortal touch of thy hands my little heart loses its limits in joy and gives birth to utterance ineffable.\n \n' +
 		'Thy infinite gifts come to me only on these very small hands of mine. Ages pass, and still thou pourest, and still there is room to fill. \n \n',
 	2:
-		'When thou commandest me to sing it seems that my heart would break with pride; and I look to thy face, and tears come to my eyes. \n \n' +
-		'All that is harsh and dissonant in my life melts into one sweet harmony ⎯ and my adoration spreads wings like a glad bird on its flight across the sea. \n \n' +
-		'I know thou takest pleasure in my singing. I know that only as a singer I come before thy presence. \n \n' +
-		'I touch by the edge of the far spreading wing of my song thy feet which I could never aspire to reach. \n \n' +
+		'When thou commandest me to sing it seems that my heart would break with pride; and I look to thy face, and tears come to my eyes.\n \n' +
+		'All that is harsh and dissonant in my life melts into one sweet harmony ⎯ and my adoration spreads wings like a glad bird on its flight across the sea.\n \n' +
+		'I know thou takest pleasure in my singing. I know that only as a singer I come before thy presence.\n \n' +
+		'I touch by the edge of the far spreading wing of my song thy feet which I could never aspire to reach.\n \n' +
 		'Drunk with the joy of singing I forget myself and call thee friend who art my lord. \n \n',
 	3:
-		'I know not how thou singest, my master! I ever listen in silent amazement. \n \n' +
-		'The light of thy music illumines the world. The life breath of thy music runs from sky to sky. The holy stream of thy music breaks through all stony obstacles and rushes on. \n \n' +
+		'I know not how thou singest, my master! I ever listen in silent amazement.\n \n' +
+		'The light of thy music illumines the world. The life breath of thy music runs from sky to sky. The holy stream of thy music breaks through all stony obstacles and rushes on.\n \n' +
 		'My heart longs to join in thy song, but vainly struggles for a voice. I would speak, but speech breaks not into song, and I cry out baffled. Ah, thou hast made my heart captive in the endless meshes of thy music, my master! \n \n',
 	4:
-		'Life of my life, I shall ever try to keep my body pure, knowing that thy living touch is upon all my limbs. \n \n' +
-		'I shall ever try to keep all untruths out from my thoughts, knowing that thou art that truth which has kindled the light of reason in my mind. \n \n' +
-		'I shall ever try to drive all evils away from my heart and keep my love in flower, knowing that thou hast thy seat in the inmost shrine of my heart. \n \n' +
+		'Life of my life, I shall ever try to keep my body pure, knowing that thy living touch is upon all my limbs.\n \n' +
+		'I shall ever try to keep all untruths out from my thoughts, knowing that thou art that truth which has kindled the light of reason in my mind.\n \n' +
+		'I shall ever try to drive all evils away from my heart and keep my love in flower, knowing that thou hast thy seat in the inmost shrine of my heart.\n \n' +
 		'And it shall be my endeavour to reveal thee in my actions, knowing it is thy power gives me strength to act. \n \n',
 	5:
 		"I ask for a moment's indulgence to sit by thy side. The works that I have in hand I will \n \n" +
-		'finish afterwards. \n \n' +
-		'Away from the sight of thy face my heart knows no rest nor respite, and my work becomes an endless toil in a shoreless sea of toil. \n \n' +
-		'To-day the summer has come at my window with its sighs and murmurs; and the bees are plying their minstrelsy at the court of the flowering grove. \n \n' +
+		'finish afterwards.\n \n' +
+		'Away from the sight of thy face my heart knows no rest nor respite, and my work becomes an endless toil in a shoreless sea of toil.\n \n' +
+		'To-day the summer has come at my window with its sighs and murmurs; and the bees are plying their minstrelsy at the court of the flowering grove.\n \n' +
 		'Now it is time to sit quiet, face to face with thee, and to sing dedication of life in this silent and overflowing leisure. \n \n',
 
 	6:
-		'Pluck this little flower and take it, delay not! I fear lest it droop and drop into the dust. \n \n' +
-		'It may not find a place in thy garland, but honour it with a touch of pain from thy hand and pluck it. I fear lest the day end before I am aware, and the time of offering go by. \n \n' +
+		'Pluck this little flower and take it, delay not! I fear lest it droop and drop into the dust.\n \n' +
+		'It may not find a place in thy garland, but honour it with a touch of pain from thy hand and pluck it. I fear lest the day end before I am aware, and the time of offering go by.\n \n' +
 		'Though its colour be not deep and its smell be faint, use this flower in thy service and pluck it while there is time. \n \n',
 
 	7:
-		'My song has put off her adornments. \n \n' +
-		'She has no pride of dress and decoration. Ornaments would mar our union; they would come between thee and me; their jingling would drown thy whispers. \n \n' +
+		'My song has put off her adornments.\n \n' +
+		'She has no pride of dress and decoration. Ornaments would mar our union; they would come between thee and me; their jingling would drown thy whispers.\n \n' +
 		"My poet's vanity dies in shame before thy sight. O master poet, I have sat down at thy feet. Only let me make my life simple and straight, like a flute of reed for thee to fill with music. \n \n ",
 
 	8:
 		"The child who is decked with prince's robes and who has jewelled chains round his neck loses all pleasure in his play; his dress hampers him at every step. \n \n" +
-		'In fear that it may be frayed, or stained with dust he keeps himself from the world, and is afraid even to move. \n \n' +
+		'In fear that it may be frayed, or stained with dust he keeps himself from the world, and is afraid even to move.\n \n' +
 		'Mother, it is no gain, thy bondage of finery, if it keep one shut off from the healthful dust of the earth, if it rob one of the right of entrance to the great fair of common human life. \n \n',
 	9:
 		'O fool, to try to carry thyself upon thy own shoulders! O beggar, to come to beg at thyown door! \n \n' +
-		'Leave all thy burdens on his hands who can bear all, and never look behind in regret. \n \n' +
-		'Thy desire at once puts out the light from the lamp it touches with its breath. \n \n' +
+		'Leave all thy burdens on his hands who can bear all, and never look behind in regret.\n \n' +
+		'Thy desire at once puts out the light from the lamp it touches with its breath.\n \n' +
 		'It is unholy ⎯ take not thy gifts through its unclean hands. Accept only what is offered by sacred love. \n \n',
 	10:
-		'Here is thy footstool and there rest thy feet where live the poorest, and lowliest, and lost. \n \n' +
-		'When I try to bow to thee, my obeisance cannot reach down to the depth where thy feet rest among the poorest, and lowliest, and lost. \n \n' +
-		'Pride can never approach to where thou walkest in the clothes of the humble among the poorest, and lowliest, and lost. \n \n' +
+		'Here is thy footstool and there rest thy feet where live the poorest, and lowliest, and lost.\n \n' +
+		'When I try to bow to thee, my obeisance cannot reach down to the depth where thy feet rest among the poorest, and lowliest, and lost.\n \n' +
+		'Pride can never approach to where thou walkest in the clothes of the humble among the poorest, and lowliest, and lost.\n \n' +
 		'My heart can never find its way to where thou keepest company with the companionless among the poorest, the lowliest, and the lost. \n \n',
 	11:
 		'Leave this chanting and singing and telling of beads! Whom dost thou worship in this lonely dark corner of a temple with doors all shut? Open thine eyes and see thy God is not before thee! \n \n' +
 		'He is there where the tiller is tilling the hard ground and where the path-maker is breaking stones. He is with them in sun and in shower, and his garment is covered with dust. Put off thy holy mantle and even like him come down on the dusty soil! \n \n' +
-		'Deliverance? Where is this deliverance to be found? Our master himself has joyfully taken upon him the bonds of creation; he is bound with us all for ever. \n \n' +
+		'Deliverance? Where is this deliverance to be found? Our master himself has joyfully taken upon him the bonds of creation; he is bound with us all for ever.\n \n' +
 		'Come out of thy meditations and leave aside thy flowers and incense! \n \n' +
 		'What harm is there if thy clothes become tattered and stained? Meet him and stand by him in toil and in sweat of thy brow. \n \n',
 	12:
-		'The time that my journey takes is long and the way of it long. \n \n' +
-		'I came out on the chariot of the first gleam of light, and pursued my voyage through the wildernesses of worlds leaving my track on many a star and planet. \n \n' +
-		'It is the most distant course that comes nearest to thyself, and that training is the most intricate which leads to the utter simplicity of a tune. \n \n' +
-		'The traveller has to knock at every alien door to come to his own, and one has to wander through all the outer worlds to reach the innermost shrine at the end. \n \n' +
+		'The time that my journey takes is long and the way of it long.\n \n' +
+		'I came out on the chariot of the first gleam of light, and pursued my voyage through the wildernesses of worlds leaving my track on many a star and planet.\n \n' +
+		'It is the most distant course that comes nearest to thyself, and that training is the most intricate which leads to the utter simplicity of a tune.\n \n' +
+		'The traveller has to knock at every alien door to come to his own, and one has to wander through all the outer worlds to reach the innermost shrine at the end.\n \n' +
 		'My eyes strayed far and wide before I shut them and said "Here art thou!"\n \n' +
 		'The question and the cry "Oh, where?" melt into tears of a thousand streams and deluge the world with the flood of the assurance "I am!"\n \n',
 	13:
-		'The song that I came to sing remains unsung to this day. \n \n' +
-		'I have spent my days in stringing and in unstringing my instrument. \n \n' +
-		'The time has not come true, the words have not been rightly set; only there is the agony of wishing in my heart. \n \n' +
-		'The blossom has not opened; only the wind is sighing by. \n \n' +
-		'I have not seen his face, nor have I listened to his voice; only I have heard his gentle footsteps from the road before my house. \n \n' +
-		'The livelong day has passed in spreading his seat on the floor; but the lamp has not been lit and I cannot ask him into my house. \n \n' +
+		'The song that I came to sing remains unsung to this day.\n \n' +
+		'I have spent my days in stringing and in unstringing my instrument.\n \n' +
+		'The time has not come true, the words have not been rightly set; only there is the agony of wishing in my heart.\n \n' +
+		'The blossom has not opened; only the wind is sighing by.\n \n' +
+		'I have not seen his face, nor have I listened to his voice; only I have heard his gentle footsteps from the road before my house.\n \n' +
+		'The livelong day has passed in spreading his seat on the floor; but the lamp has not been lit and I cannot ask him into my house.\n \n' +
 		'I live in the hope of meeting with him; but this meeting is not yet. \n \n ',
 	14:
 		'My desires are many and my cry is pitiful, but ever didst thou save me by hard refusals; and this strong mercy has been wrought into my life through and through.\n\n' +
@@ -424,7 +424,7 @@ const verses = {
 		'The stars have wrought their anklets of light to deck thy feet, but mine will hang upon thy breast.\n\n' +
 		'Wealth and fame come from thee and it is for thee to give or to withhold them. But this my sorrow is absolutely mine own, and when I bring it to thee as my offering thou rewardest me with thy grace.\n\n',
 	84:
-		'IT is the pang of separation that spreads throughout the world and gives birth to shapes innumerable in the infinite sky.\n\n' +
+		'It is the pang of separation that spreads throughout the world and gives birth to shapes innumerable in the infinite sky.\n\n' +
 		'It is this sorrow of separation that gazes in silence all night from star to star and becomes lyric among rustling leaves in rainy darkness of July.\n\n' +
 		"It is this overspreading pain that deepens into loves and desires, into sufferings and joys in human homes; and this it is that ever melts and flows in songs through my poet's heart.\n\n",
 	85:
@@ -470,6 +470,32 @@ const verses = {
 		'Yet stars will watch at night, and morning rise as before, and hours heave like sea waves casting up pleasures and pains.\n\n' +
 		'When I think of this end of my moments, the barrier of the moments breaks and I see by the light of death thy world with its careless treasures. Rare is its lowliest seat, rare is its meanest of lives.\n\n' +
 		'Things that I longed for in vain and things that I got ⎯ let them pass. Let me but truly possess the things that I ever spurned and overlooked.\n\n',
+	93:
+		'I have got my leave. Bid me farewell, my brothers! I bow to you all and take my departure.\n\n' +
+		'Here I give back the keys of my door—and I give up all claims to my house. I only ask for last kind words from you.\n\n' +
+		'We were neighbours for long, but I received more than I could give. Now the day has dawned and the lamp that lit my dark corner is out. A summons has come and I am ready for my journey.',
+	94:
+		'At this time of my parting, wish me good luck, my friends! The sky is flushed with the dawn and my path lies beautiful.\n\n' +
+		'Ask not what I have with me to take there. I start on my journey with empty hands and expectant heart.\n\n' +
+		'I shall put on my wedding garland. Mine is not the red-brown dress of the traveller, and though there are dangers on the way I have no fear in my mind.\n\n' +
+		"The evening star will come out when my voyage is done and the plaintive notes of the twilight melodies be struck up from the King's gateway.",
+	95:
+		'I was not aware of the moment when I first crossed the threshold of this life.\n\n' +
+		'What was the power that made me open out into this vast mystery like a bud in the forest at midnight!\n\n' +
+		'When in the morning I looked upon the light I felt in a moment that I was no stranger in this world, that the inscrutable without name and form had taken me in its arms in the form of my own mother.\n\n' +
+		'Even so, in death the same unknown will appear as ever known to me. And because I love this life, I know I shall love death as well.\n\n' +
+		'The child cries out when from the right breast the mother takes it away, in the very next moment to find in the left one its consolation.',
+	96:
+		'When I go from hence let this be my parting word, that what I have seen is unsurpassable.\n\n' +
+		'I have tasted of the hidden honey of this lotus that expands on the ocean of light, and thus am I blessed—let this be my parting word.\n\n' +
+		'In this playhouse of infinite forms I have had my play and here have I caught sight of him that is formless.\n\n' +
+		'My whole body and my limbs have thrilled with his touch who is beyond touch; and if the end comes here, let it come—let this be my parting word.',
+	97:
+		'When my play was with thee I never questioned who thou wert. I knew nor shyness nor fear, my life was boisterous.\n\n' +
+		'In the early morning thou wouldst call me from my sleep like my own comrade and lead me running from glade to glade.\n\n' +
+		'On those days I never cared to know the meaning of songs thou sangest to me. Only my voice took up the tunes, and my heart danced in their cadence.\n\n' +
+		'Now, when the playtime is over, what is this sudden sight that is come upon me? The world with eyes bent upon thy feet stands in awe with all its silent stars. \n\n',
+
 	98:
 		'I have got my leave. Bid me farewell, my brothers! I bow to you all and take my departure.\n\n' +
 		'Here I give back the keys of my door ⎯ and I give up all claims to my house. I only ask for last kind words from you.\n\n' +
@@ -487,10 +513,9 @@ const verses = {
 		'The child cries out when from the right breast the mother takes it away, in the very next moment to find in the left one its consolation.\n\n',
 	96:
 		'When I go from hence let this be my parting word, that what I have seen is unsurpassable.\n\n' +
-		'I have tasted of the hidden honey of this lotus that expands on the ocean of light, and\n\n' +
-		'thus am I blessed ⎯ let this be my parting word.\n\n' +
-		'In this playhouse of infinite forms I have had my play and here have I caught sight of him\n\n' +
-		'that is formless. My whole body and my limbs have thrilled with his touch who is beyond touch; and if the end comes here, let it come ⎯ let this be my parting word.\n\n',
+		'I have tasted of the hidden honey of this lotus that expands on the ocean of light, and thus am I blessed ⎯ let this be my parting word.\n\n' +
+		'In this playhouse of infinite forms I have had my play and here have I caught sight of him that is formless.\n\n' +
+		'My whole body and my limbs have thrilled with his touch who is beyond touch; and if the end comes here, let it come ⎯ let this be my parting word.\n\n',
 	97:
 		'When my play was with thee I never questioned who thou wert. I knew nor shyness nor fear, my life was boisterous.\n\n' +
 		'In the early morning thou wouldst call me from my sleep like my own comrade and lead me running from glade to glade.\n\n' +

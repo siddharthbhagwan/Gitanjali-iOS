@@ -10,7 +10,7 @@ const Header = ({ setDrawer }) => (
 const styles = StyleSheet.create({
 	header: {
 		fontSize: 28,
-		marginTop: 50,
+		marginTop: 70,
 		marginBottom: 30,
 		textAlign: 'center',
 		fontFamily: 'meta-normal',

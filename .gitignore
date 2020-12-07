@@ -1,5 +1,4 @@
 node_modules
 .expo/
 src/.DS_Store
-src/*
 .expo_shared/
