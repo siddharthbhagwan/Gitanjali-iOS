@@ -495,31 +495,6 @@ const verses = {
 		'In the early morning thou wouldst call me from my sleep like my own comrade and lead me running from glade to glade.\n\n' +
 		'On those days I never cared to know the meaning of songs thou sangest to me. Only my voice took up the tunes, and my heart danced in their cadence.\n\n' +
 		'Now, when the playtime is over, what is this sudden sight that is come upon me? The world with eyes bent upon thy feet stands in awe with all its silent stars. \n\n',
-
-	98:
-		'I have got my leave. Bid me farewell, my brothers! I bow to you all and take my departure.\n\n' +
-		'Here I give back the keys of my door ⎯ and I give up all claims to my house. I only ask for last kind words from you.\n\n' +
-		'We were neighbours for long, but I received more than I could give. Now the day has dawned and the lamp that lit my dark corner is out. A summons has come and I am ready for my journey.\n\n',
-	94:
-		'At this time of my parting, wish me good luck, my friends! The sky is flushed with the\n\n' +
-		'dawn and my path lies beautiful. Ask not what I have with me to take there. I start on my journey with empty hands and expectant heart.\n\n' +
-		'I shall put on my wedding garland. Mine is not the red-brown dress of the traveller, and though there are dangers on the way I have no fear in my mind.\n\n' +
-		"The evening star will come out when my voyage is done and the plaintive notes of the twilight melodies be struck up from the King's gateway.\n\n",
-	95:
-		'I was not aware of the moment when I first crossed the threshold of this life.\n\n' +
-		'What was the power that made me open out into this vast mystery like a bud in the forest at midnight!\n\n' +
-		'When in the morning I looked upon the light I felt in a moment that I was no stranger in this world, that the inscrutable without name and form had taken me in its arms in the form of my own mother.\n\n' +
-		'Even so, in death the same unknown will appear as ever known to me. And because I love this life, I know I shall love death as well.\n\n' +
-		'The child cries out when from the right breast the mother takes it away, in the very next moment to find in the left one its consolation.\n\n',
-	96:
-		'When I go from hence let this be my parting word, that what I have seen is unsurpassable.\n\n' +
-		'I have tasted of the hidden honey of this lotus that expands on the ocean of light, and thus am I blessed ⎯ let this be my parting word.\n\n' +
-		'In this playhouse of infinite forms I have had my play and here have I caught sight of him that is formless.\n\n' +
-		'My whole body and my limbs have thrilled with his touch who is beyond touch; and if the end comes here, let it come ⎯ let this be my parting word.\n\n',
-	97:
-		'When my play was with thee I never questioned who thou wert. I knew nor shyness nor fear, my life was boisterous.\n\n' +
-		'In the early morning thou wouldst call me from my sleep like my own comrade and lead me running from glade to glade.\n\n' +
-		'On those days I never cared to know the meaning of songs thou sangest to me. Only my voice took up the tunes, and my heart danced in their cadence.62 Now, when the playtime is over, what is this sudden sight that is come upon me? The world with eyes bent upon thy feet stands in awe with all its silent stars.\n\n',
 	98:
 		'I will deck thee with trophies, garlands of my defeat. It is never in my power to escape unconquered.\n\n' +
 		'I surely know my pride will go to the wall, my life will burst its bonds in exceeding pain, and my empty heart will sob out in music like a hollow reed, and the stone will melt in tears.\n\n' +
