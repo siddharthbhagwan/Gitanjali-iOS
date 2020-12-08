@@ -28,7 +28,13 @@ const Sidebar = ({ drawer, verseNo, setDrawer, setVerseNo }) => {
 		));
 
 		return (
-			<ScrollView>
+			<ScrollView
+				style={{
+					marginTop: 80,
+					marginBottom: 50,
+					borderTop: 2,
+				}}
+			>
 				<TouchableOpacity style={styles.menu}>
 					{verses}
 
@@ -100,7 +106,7 @@ const styles = StyleSheet.create({
 		fontFamily: 'meta-normal',
 	},
 	strike: { textDecorationLine: 'line-through' },
-	first: { paddingTop: 80 },
+	first: { paddingTop: 10 },
 });
 
 export default Sidebar;
