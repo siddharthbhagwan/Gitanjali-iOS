@@ -1,11 +1,13 @@
 import React from 'react';
-import { StyleSheet, Text } from 'react-native';
+import { StyleSheet, Text, ScrollView } from 'react-native';
 
 const Verse = ({ verseNo, text }) => (
 	<>
 		<Text style={[styles.verse, styles.verseNo]}>{verseNo}</Text>
-		<Text style={[styles.verse]}>{text}</Text>
-		<Text style={styles.verseEnd}></Text>
+		<ScrollView>
+			<Text style={[styles.verse]}>{text}</Text>
+			<Text style={styles.verseEnd}></Text>
+		</ScrollView>
 	</>
 );
 
@@ -24,11 +26,11 @@ const styles = StyleSheet.create({
 		textAlign: 'center',
 	},
 	verseEnd: {
-		borderBottomColor: 'gray',
-		borderBottomWidth: 1,
-		marginLeft: 120,
-		marginRight: 120,
-		marginTop: 20,
+		borderBottomColor: 'red',
+		borderBottomWidth: 2,
+		// marginLeft: 120,
+		// marginRight: 120,
+		// marginTop: 20,
 	},
 });
 
