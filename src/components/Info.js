@@ -15,6 +15,7 @@ export default Info = () => {
 			<Text style={[styles.infoSection, styles.madeBy]}>
 				siddharthabhagwan@gmail.com
 			</Text>
+			<Text style={[styles.infoSection, styles.ig]}>@siddhartha_b</Text>
 			<Text style={[styles.infoSection, styles.version]}>v1.0</Text>
 		</SafeAreaView>
 	);
@@ -25,7 +26,10 @@ const styles = StyleSheet.create({
 		flex: 1,
 		alignItems: 'center',
 		justifyContent: 'center',
-		marginBottom: 140,
+		marginBottom: '30%',
+	},
+	ig: {
+		marginTop: 5,
 	},
 	infoSection: {
 		fontFamily: 'meta-normal',
@@ -41,9 +45,10 @@ const styles = StyleSheet.create({
 		fontSize: 17,
 	},
 	madeBy: {
-		marginTop: 50,
+		marginTop: 70,
 	},
 	version: {
 		fontSize: 15,
+		marginTop: 5,
 	},
 });

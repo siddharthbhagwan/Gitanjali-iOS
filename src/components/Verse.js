@@ -26,6 +26,7 @@ const styles = StyleSheet.create({
 		textAlign: 'center',
 	},
 	verseEnd: {
+		marginTop: 10,
 		borderTopColor: 'lightgray',
 		borderTopWidth: 1,
 		marginLeft: 120,
