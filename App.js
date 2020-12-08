@@ -1,5 +1,4 @@
 import React from 'react';
-import { StyleSheet } from 'react-native';
 import { useFonts } from '@use-expo/font';
 import { AppLoading } from 'expo';
 import HomeScreen from './src/components/HomeScreen';
