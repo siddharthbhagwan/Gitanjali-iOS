@@ -97,7 +97,7 @@ const verses = {
 	19:
 		'If thou speakest not I will fill my heart with thy silence and endure it. I will keep still and wait like the night with starry vigil and its head bent low with patience.\n\n' +
 		'The morning will surely come, the darkness will vanish, and thy voice pour down in golden streams breaking through the sky.\n\n' +
-		"Then thy words will take wing in songs from every one of my birds' nests, and thy melodies will break forth in flowers in all my forest groves.",
+		"Then thy words will take wing in songs from every one of my birds' nests, and thy melodies will break forth in flowers in all my forest groves.\n\n",
 	20:
 		'On the day when the lotus bloomed, alas, my mind was straying, and I knew it not. My basket was empty and the flower remained unheeded.\n\n' +
 		'Only now and again a sadness fell upon me, and I started up from my dream and felt a sweet trace of a strange fragrance in the south wind.\n\n' +
@@ -249,7 +249,7 @@ const verses = {
 		'The sun rose to the mid sky and doves cooed in the shade. Withered leaves danced and whirled in the hot air of noon. The shepherd boy drowsed and dreamed in the shadow of the banyan tree, and I laid myself down by the water and stretched my tired limbs on the grass.\n\n' +
 		'My companions laughed at me in scorn; they held their heads high and hurried on; they never looked back nor rested; they vanished in the distant blue haze. They crossed many meadows and hills, and passed through strange, far-away countries. All honour to you, heroic host of the interminable path! Mockery and reproach pricked me to rise, but found no response in me. I gave myself up for lost in the depth of a glad humiliation ⎯ in the shadow of a dim delight.\n\n' +
 		'The repose of the sun-embroidered green gloom slowly spread over my heart. I forgot for what I had travelled, and I surrendered my mind without struggle to the maze of shadows and songs.\n\n' +
-		'At last, when I woke from my slumber and opened my eyes, I saw thee standing by me, flooding my sleep with thy smile. How I had feared that the path was long and wearisome, and the struggle to reach thee was hard!',
+		'At last, when I woke from my slumber and opened my eyes, I saw thee standing by me, flooding my sleep with thy smile. How I had feared that the path was long and wearisome, and the struggle to reach thee was hard!\n\n',
 	49:
 		'You came down from your throne and stood at my cottage door.\n\n' +
 		'I was singing all alone in a corner, and the melody caught your ear. You came down and stood at my cottage door.\n\n' +
@@ -449,7 +449,7 @@ const verses = {
 		"No more noisy, loud words from me ⎯ such is my master's will. Henceforth I deal in whispers. The speech of my heart will be carried on in murmurings of a song.\n\n" +
 		"Men hasten to the King's market. All the buyers and sellers are there. But I have my untimely leave in the middle of the day, in the thick of work.\n\n" +
 		'Let then the flowers come out in my garden, though it is not their time and let the midday bees strike up their lazy hum.\n\n' +
-		'Full many an hour have I spent in the strife of the good and the evil, but now it is the pleasure of my playmate of the empty days to draw my heart on to him; and I know not why is this sudden call to what useless inconsequence!',
+		'Full many an hour have I spent in the strife of the good and the evil, but now it is the pleasure of my playmate of the empty days to draw my heart on to him; and I know not why is this sudden call to what useless inconsequence!\n\n',
 	90:
 		'On the day when death will knock at thy door what wilt thou offer to him?\n\n' +
 		'Oh, I will set before my guest the full vessel of my life ⎯ I will never let him go with empty hands.\n\n' +
@@ -472,7 +472,7 @@ const verses = {
 		'At this time of my parting, wish me good luck, my friends! The sky is flushed with the dawn and my path lies beautiful.\n\n' +
 		'Ask not what I have with me to take there. I start on my journey with empty hands and expectant heart.\n\n' +
 		'I shall put on my wedding garland. Mine is not the red-brown dress of the traveller, and though there are dangers on the way I have no fear in my mind.\n\n' +
-		"The evening star will come out when my voyage is done and the plaintive notes of the twilight melodies be struck up from the King's gateway.",
+		"The evening star will come out when my voyage is done and the plaintive notes of the twilight melodies be struck up from the King's gateway.\n\n",
 	95:
 		'I was not aware of the moment when I first crossed the threshold of this life.\n\n' +
 		'What was the power that made me open out into this vast mystery like a bud in the forest at midnight!\n\n' +
