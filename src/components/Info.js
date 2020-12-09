@@ -1,9 +1,10 @@
 import React from 'react';
-import { StyleSheet, SafeAreaView, Text } from 'react-native';
+import { StyleSheet, SafeAreaView, Text, Image } from 'react-native';
 
 export default Info = () => {
 	return (
 		<SafeAreaView style={styles.body}>
+			<Image source={require('./../../assets/icon.png')} style={styles.logo} />
 			<Text style={[styles.infoSection, styles.title]}>Gitanjali</Text>
 			<Text style={[styles.infoSection]}>by</Text>
 			<Text style={[styles.infoSection, styles.author]}>
@@ -36,6 +37,7 @@ const styles = StyleSheet.create({
 	},
 	title: {
 		fontSize: 30,
+		marginTop: 20,
 	},
 	author: {
 		fontSize: 30,
@@ -50,5 +52,10 @@ const styles = StyleSheet.create({
 	version: {
 		fontSize: 15,
 		marginTop: 5,
+	},
+	logo: {
+		height: 200,
+		width: 200,
+		marginTop: 50,
 	},
 });

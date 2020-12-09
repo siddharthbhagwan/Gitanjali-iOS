@@ -1,12 +1,16 @@
-import React from 'react';
+import React, { useState } from 'react';
 import { Text, StyleSheet, TouchableOpacity, ScrollView } from 'react-native';
 import MenuDrawer from 'react-native-side-drawer';
+import verses from '../../assets/verses';
 import Header from './Header';
+import Mode from './Mode';
 import Verse from './Verse';
 import Info from './Info';
-import verses from '../../assets/verses';
 
 const Sidebar = ({ drawer, verseNo, setDrawer, setVerseNo }) => {
+	const [isEnabled, setIsEnabled] = useState(false);
+	const handleToggle = () => setIsEnabled((previousState) => !previousState);
+
 	const verseList = () => {
 		const v = Array.from({ length: 103 }, (_, i) => i + 1);
 
@@ -30,7 +34,7 @@ const Sidebar = ({ drawer, verseNo, setDrawer, setVerseNo }) => {
 		return (
 			<ScrollView
 				style={{
-					marginTop: 80,
+					marginTop: 40,
 					marginBottom: 50,
 					borderTop: 2,
 				}}
@@ -58,7 +62,7 @@ const Sidebar = ({ drawer, verseNo, setDrawer, setVerseNo }) => {
 			opacity={0.3}
 			overlay={true}
 			animationTime={200}
-			drawerPercentage={20}
+			drawerPercentage={22.5}
 			drawerContent={verseList()}
 		>
 			<Header
@@ -85,7 +89,6 @@ const styles = StyleSheet.create({
 	i: {
 		margin: 10,
 		textAlign: 'center',
-		marginBottom: 80,
 		color: 'black',
 		padding: 5,
 		borderRadius: 7,
@@ -106,7 +109,7 @@ const styles = StyleSheet.create({
 		fontFamily: 'meta-normal',
 	},
 	strike: { textDecorationLine: 'line-through' },
-	first: { paddingTop: 10 },
+	first: { paddingTop: 20 },
 });
 
 export default Sidebar;
