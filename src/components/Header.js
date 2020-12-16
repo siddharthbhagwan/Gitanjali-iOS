@@ -1,4 +1,5 @@
 import React from 'react';
+import { isTablet } from 'react-native-device-detection';
 import { StyleSheet, Text, TouchableOpacity } from 'react-native';
 
 const Header = ({ setDrawer }) => (
@@ -9,7 +10,7 @@ const Header = ({ setDrawer }) => (
 
 const styles = StyleSheet.create({
 	header: {
-		fontSize: 28,
+		fontSize: isTablet ? 45 : 28,
 		marginTop: 70,
 		marginBottom: 30,
 		textAlign: 'center',
