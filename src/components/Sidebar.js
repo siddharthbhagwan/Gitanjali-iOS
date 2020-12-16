@@ -1,9 +1,9 @@
 import React, { useState } from 'react';
 import { Text, StyleSheet, TouchableOpacity, ScrollView } from 'react-native';
+import { isTablet } from 'react-native-device-detection';
 import MenuDrawer from 'react-native-side-drawer';
 import verses from '../../assets/verses';
 import Header from './Header';
-import Mode from './Mode';
 import Verse from './Verse';
 import Info from './Info';
 
@@ -32,13 +32,7 @@ const Sidebar = ({ drawer, verseNo, setDrawer, setVerseNo }) => {
 		));
 
 		return (
-			<ScrollView
-				style={{
-					marginTop: 40,
-					marginBottom: 50,
-					borderTop: 2,
-				}}
-			>
+			<ScrollView style={styles.scrollView}>
 				<TouchableOpacity style={styles.menu}>
 					{verses}
 
@@ -62,8 +56,8 @@ const Sidebar = ({ drawer, verseNo, setDrawer, setVerseNo }) => {
 			opacity={0.3}
 			overlay={true}
 			animationTime={200}
-			drawerPercentage={22.5}
 			drawerContent={verseList()}
+			drawerPercentage={isTablet ? 10 : 22.5}
 		>
 			<Header
 				key="header"
@@ -86,27 +80,31 @@ const Sidebar = ({ drawer, verseNo, setDrawer, setVerseNo }) => {
 };
 
 const styles = StyleSheet.create({
+	scrollView: {
+		marginTop: 40,
+		marginBottom: 50,
+	},
 	i: {
-		margin: 10,
-		textAlign: 'center',
-		color: 'black',
 		padding: 5,
-		borderRadius: 7,
-		borderColor: 'gray',
+		margin: 10,
+		color: 'black',
 		borderWidth: 1,
+		borderRadius: 7,
+		textAlign: 'center',
+		borderColor: 'gray',
 	},
 	menu: {
 		flex: 1,
 		padding: 10,
-		backgroundColor: 'white',
 		borderRightWidth: 1,
+		backgroundColor: 'white',
 		borderRightColor: '#dfdfdf',
 	},
 	verseMenu: {
-		fontSize: 18,
-		padding: 5,
 		textAlign: 'center',
 		fontFamily: 'meta-normal',
+		padding: isTablet ? 8 : 5,
+		fontSize: isTablet ? 25 : 18,
 	},
 	strike: { textDecorationLine: 'line-through' },
 	first: { paddingTop: 20 },

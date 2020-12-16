@@ -1,4 +1,5 @@
 import React from 'react';
+import { isTablet } from 'react-native-device-detection';
 import { StyleSheet, SafeAreaView, Text, Image } from 'react-native';
 
 export default Info = () => {
@@ -25,37 +26,39 @@ export default Info = () => {
 const styles = StyleSheet.create({
 	body: {
 		flex: 1,
+		marginBottom: '30%',
 		alignItems: 'center',
 		justifyContent: 'center',
-		marginBottom: '30%',
-	},
-	ig: {
-		marginTop: 5,
 	},
 	infoSection: {
 		fontFamily: 'meta-normal',
 	},
 	title: {
-		fontSize: 30,
-		marginTop: 20,
+		fontSize: isTablet ? 40 : 30,
+		marginTop: isTablet ? 30 : 20,
 	},
 	author: {
-		fontSize: 30,
+		fontSize: isTablet ? 40 : 30,
 	},
 	madeFor: {
-		marginTop: 70,
-		fontSize: 17,
+		marginTop: isTablet ? 100 : 70,
+		fontSize: isTablet ? 25 : 17,
 	},
 	madeBy: {
-		marginTop: 70,
+		fontSize: isTablet ? 22 : 20,
+		marginTop: isTablet ? 100 : 70,
+	},
+	ig: {
+		fontSize: isTablet ? 20 : 15,
+		marginTop: isTablet ? 10 : 5,
 	},
 	version: {
-		fontSize: 15,
-		marginTop: 5,
+		fontSize: isTablet ? 20 : 15,
+		marginTop: isTablet ? 10 : 5,
 	},
 	logo: {
-		height: 200,
-		width: 200,
-		marginTop: 50,
+		height: isTablet ? 350 : 200,
+		width: isTablet ? 350 : 200,
+		marginTop: isTablet ? 70 : 50,
 	},
 });
