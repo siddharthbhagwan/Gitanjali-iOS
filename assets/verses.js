@@ -104,14 +104,14 @@ const verses = {
 		'That vague sweetness made my heart ache with longing and it seemed to me that it was the eager breath of the summer seeking for its completion.\n\n' +
 		'I knew not then that it was so near, that it was mine, and that this perfect sweetness had blossomed in the depth of my own heart.\n\n',
 	21:
-		'I must launch out my boat. The languid hours pass by on the shore---Alas for me!\n\n' +
+		'I must launch out my boat. The languid hours pass by on the shore - Alas for me!\n\n' +
 		'The spring has done its flowering and taken leave. And now with the burden of faded futile flowers I wait and linger.\n\n' +
 		'The waves have become clamorous, and upon the bank in the shady lane the yellow leaves flutter and fall.\n\n' +
 		'What emptiness do you gaze upon! Do you not feel a thrill passing through the air with the notes of the far-away song floating from the other shore?\n\n',
 	22:
 		'In the deep shadows of the rainy July, with secret steps, thou walkest, silent as night, eluding all watchers.\n\n' +
 		'Today the morning has closed its eyes, heedless of the insistent calls of the loud east wind, and a thick veil has been drawn over the ever-wakeful blue sky.\n\n' +
-		'The woodlands have hushed their songs, and doors are all shut at every house. Thou art the solitary wayfarer in this deserted street. Oh my only friend, my best beloved, the gates are open in my house---do not pass by like a dream.\n\n',
+		'The woodlands have hushed their songs, and doors are all shut at every house. Thou art the solitary wayfarer in this deserted street. Oh my only friend, my best beloved, the gates are open in my house - do not pass by like a dream.\n\n',
 	23:
 		'Art thou abroad on this stormy night on thy journey of love, my friend? The sky groans like one in despair.\n\n' +
 		'I have no sleep tonight. Ever and again I open my door and look out on the darkness, my friend!\n\n' +
@@ -130,9 +130,9 @@ const verses = {
 		'Alas, why are my nights all thus lost? Ah, why do I ever miss his sight whose breath touches my sleep? ',
 	27:
 		'Light, oh where is the light? Kindle it with the burning fire of desire!\n\n' +
-		'There is the lamp but never a flicker of a flame---is such thy fate, my heart? Ah, death were better by far for thee!\n\n' +
+		'There is the lamp but never a flicker of a flame - is such thy fate, my heart? Ah, death were better by far for thee!\n\n' +
 		'Misery knocks at thy door, and her message is that thy lord is wakeful, and he calls thee to the love-tryst through the darkness of night.\n\n' +
-		'The sky is overcast with clouds and the rain is ceaseless. I know not what this is that stirs in me---I know not its meaning.\n\n' +
+		'The sky is overcast with clouds and the rain is ceaseless. I know not what this is that stirs in me - I know not its meaning.\n\n' +
 		"A moment's flash of lightning drags down a deeper gloom on my sight, and my heart gropes for the path to where the music of the night calls me.\n\n" +
 		'Light, oh where is the light! Kindle it with the burning fire of desire! It thunders and the wind rushes screaming through the void. The night is black as a black stone. Let not the hours pass by in the dark. Kindle the lamp of love with thy life.\n\n',
 	28:
@@ -171,7 +171,7 @@ const verses = {
 		'Let only that little be left of me whereby I may name thee my all.\n\n' +
 		'Let only that little be left of my will whereby I may feel thee on every side, and come to thee in everything, and offer to thee my love every moment.\n\n' +
 		'Let only that little be left of me whereby I may never hide thee.\n\n' +
-		'Let only that little of my fetters be left whereby I am bound with thy will, and thy purpose is carried out in my life---and that is the fetter of thy love.\n\n',
+		'Let only that little of my fetters be left whereby I am bound with thy will, and thy purpose is carried out in my life - and that is the fetter of thy love.\n\n',
 	35:
 		'Where the mind is without fear and the head is held high;\n\n' +
 		'Where knowledge is free;\n\n' +
@@ -179,17 +179,17 @@ const verses = {
 		'Where words come out from the depth of truth;\n\n' +
 		'Where tireless striving stretches its arms towards perfection;\n\n' +
 		'Where the clear stream of reason has not lost its way into the dreary desert sand of dead habit;\n\n' +
-		'Where the mind is led forward by thee into ever-widening thought and action--- \n\n' +
+		'Where the mind is led forward by thee into ever-widening thought and action -  \n\n' +
 		'Into that heaven of freedom, my Father, let my country awake.\n\n',
 	36:
-		'This is my prayer to thee, my lord---strike, strike at the root of penury in my heart.\n\n' +
+		'This is my prayer to thee, my lord - strike, strike at the root of penury in my heart.\n\n' +
 		'Give me the strength lightly to bear my joys and sorrows.\n\n' +
 		'Give me the strength to make my love fruitful in service.\n\n' +
 		'Give me the strength never to disown the poor or bend my knees before insolent might.\n\n' +
 		'Give me the strength to raise my mind high above daily trifles.\n\n' +
 		'And give me the strength to surrender my strength to thy will with love.\n\n',
 	37:
-		'I thought that my voyage had come to its end at the last limit of my power,---that the path before me was closed, that provisions were exhausted and the time come to take shelter in a silent obscurity.\n\n' +
+		'I thought that my voyage had come to its end at the last limit of my power, - that the path before me was closed, that provisions were exhausted and the time come to take shelter in a silent obscurity.\n\n' +
 		'But I find that thy will knows no end in me. And when old words die out on the tongue, new melodies break forth from the heart; and where the old tracks are lost, new country is revealed with its wonders.\n\n',
 	38:
 		'That I want thee, only thee ⎯ let my heart repeat without end. All desires that distract me, day and night, are false and empty to the core.\n\n' +
