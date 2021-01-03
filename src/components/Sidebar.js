@@ -14,7 +14,7 @@ const Sidebar = ({ drawer, verseNo, setDrawer, setVerseNo }) => {
 	const verseList = () => {
 		const v = Array.from({ length: 103 }, (_, i) => i + 1);
 
-		const verses = v.map((v) => (
+		const verseList = v.map((v) => (
 			<Text
 				key={`verse${v}`}
 				onPress={() => {
@@ -31,18 +31,17 @@ const Sidebar = ({ drawer, verseNo, setDrawer, setVerseNo }) => {
 			</Text>
 		));
 
+		const openVerse = () => {
+			setDrawer(false);
+			setVerseNo('info');
+		};
+
 		return (
 			<ScrollView style={styles.scrollView}>
 				<TouchableOpacity style={styles.menu}>
-					{verses}
+					{verseList}
 
-					<Text
-						onPress={() => {
-							setVerseNo('info');
-							setDrawer(false);
-						}}
-						style={[styles.i]}
-					>
+					<Text onPress={openVerse} style={styles.i}>
 						i
 					</Text>
 				</TouchableOpacity>
@@ -72,6 +71,7 @@ const Sidebar = ({ drawer, verseNo, setDrawer, setVerseNo }) => {
 					key="chapters"
 					drawer={drawer}
 					verseNo={verseNo}
+					setDrawer={setDrawer}
 					text={verses[verseNo]}
 				/>
 			)}
