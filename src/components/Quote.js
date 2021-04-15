@@ -1,16 +1,23 @@
-import React from 'react';
+import React, { useState } from 'react';
+import { StyleSheet, SafeAreaView, Text, ScrollView } from 'react-native';
 import { isTablet } from 'react-native-device-detection';
 import quotes from '../../assets/quotes';
-import { StyleSheet, SafeAreaView, Text, Image } from 'react-native';
+import Actions from './Actions';
 
 const Quote = () => {
-	const verse = Math.floor(Math.random() * 103) + 1;
+	const getRandomNo = (limit) => Math.floor(Math.random() * limit) + 1;
+	const refresh = () => setVerse(getRandomNo(103));
+
+	const [verse, setVerse] = useState(getRandomNo(103));
 	const line = Math.floor(Math.random() * quotes[verse].length);
 	const quote = quotes[verse][line];
 
 	return (
 		<SafeAreaView style={styles.body}>
-			<Text style={[styles.quote]}>{quote}</Text>
+			<ScrollView>
+				<Text style={[styles.quote]}>{quote}</Text>
+			</ScrollView>
+			<Actions refresh={refresh} />
 		</SafeAreaView>
 	);
 };
@@ -22,10 +29,13 @@ const styles = StyleSheet.create({
 		justifyContent: 'center',
 	},
 	quote: {
+		display: 'flex',
+
 		marginBottom: 15,
 		fontFamily: 'meta-normal',
 		fontSize: isTablet ? 25 : 18,
 		marginTop: isTablet ? 35 : 25,
+		paddingTop: isTablet ? 35 : 25,
 		lineHeight: isTablet ? 40 : 30,
 		marginLeft: isTablet ? '15%' : 40,
 		marginRight: isTablet ? '15%' : 40,

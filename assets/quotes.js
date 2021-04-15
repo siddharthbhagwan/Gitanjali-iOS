@@ -24,8 +24,8 @@ const verses = {
 		'And it shall be my endeavour to reveal thee in my actions, knowing it is thy power gives me strength to act.',
 	],
 	5: [
-		"I ask for a moment's indulgence to sit by thy side. The works that I have in hand I will finish afterwards.\n \n" +
-			'Away from the sight of thy face my heart knows no rest nor respite, and my work becomes an endless toil in a shoreless sea of toil.\n\n',
+		"I ask for a moment's indulgence to sit by thy side. The works that I have in hand I will finish afterwards.\n \n",
+		'Away from the sight of thy face my heart knows no rest nor respite, and my work becomes an endless toil in a shoreless sea of toil.\n\n',
 		'To-day the summer has come at my window with its sighs and murmurs; and the bees are plying their minstrelsy at the court of the flowering grove.\n\n',
 		'Now it is time to sit quiet, face to face with thee, and to sing dedication of life in this silent and overflowing leisure.',
 	],
@@ -43,8 +43,8 @@ const verses = {
 	],
 
 	8: [
-		"The child who is decked with prince's robes and who has jewelled chains round his neck loses all pleasure in his play; his dress hampers him at every step.\n\n" +
-			'In fear that it may be frayed, or stained with dust he keeps himself from the world, and is afraid even to move.\n\n',
+		"The child who is decked with prince's robes and who has jewelled chains round his neck loses all pleasure in his play; his dress hampers him at every step.\n\n",
+		'In fear that it may be frayed, or stained with dust he keeps himself from the world, and is afraid even to move.\n\n',
 		'Mother, it is no gain, thy bondage of finery, if it keep one shut off from the healthful dust of the earth, if it rob one of the right of entrance to the great fair of common human life.',
 	],
 	9: [
@@ -96,8 +96,8 @@ const verses = {
 		'When in the morning air the golden harp is tuned, honour me, commanding my presence.',
 	],
 	16: [
-		"I have had my invitation to this world's festival, and thus my life has been blessed. My eyes have seen and my ears have heard.\n\n" +
-			'It was my part at this feast to play upon my instrument, and I have done all I could.\n\n',
+		"I have had my invitation to this world's festival, and thus my life has been blessed. My eyes have seen and my ears have heard.\n\n",
+		'It was my part at this feast to play upon my instrument, and I have done all I could.\n\n',
 		'Now, I ask, has the time come at last when I may go in and see thy face and offer thee my silent salutation?\n\n',
 		'I Am only waiting for love to give myself up at last into his hands. That is why it is so late and why I have been guilty of such omissions.',
 	],
@@ -159,8 +159,8 @@ const verses = {
 		'There is the lamp but never a flicker of a flame - is such thy fate, my heart? Ah, death were better by far for thee!\n\n',
 		'Misery knocks at thy door, and her message is that thy lord is wakeful, and he calls thee to the love-tryst through the darkness of night.\n\n',
 		'The sky is overcast with clouds and the rain is ceaseless. I know not what this is that stirs in me - I know not its meaning.\n\n',
-		"A moment's flash of lightning drags down a deeper gloom on my sight, and my heart gropes for the path to where the music of the night calls me.\n\n" +
-			'Light, oh where is the light! Kindle it with the burning fire of desire! It thunders and the wind rushes screaming through the void. The night is black as a black stone. Let not the hours pass by in the dark. Kindle the lamp of love with thy life.',
+		"A moment's flash of lightning drags down a deeper gloom on my sight, and my heart gropes for the path to where the music of the night calls me.\n\n",
+		'Light, oh where is the light! Kindle it with the burning fire of desire! It thunders and the wind rushes screaming through the void. The night is black as a black stone. Let not the hours pass by in the dark. Kindle the lamp of love with thy life.',
 	],
 	28: [
 		'Obstinate are the trammels, but my heart aches when I try to break them.\n\n',
@@ -182,10 +182,10 @@ const verses = {
 	],
 
 	31: [
-		"'Prisoner, tell me, who was it that bound you?'\n\n" +
-			"'It was my master,' said the prisoner. 'I thought I could outdo everybody in the world in wealth and power, and I amassed in my own treasure-house the money due to my king. When sleep overcame me I lay upon the bed that was for my lord, and on waking up I found I was a prisoner in my own treasure-house.'\n\n" +
-			"'Prisoner, tell me, who was it that wrought this unbreakable chain?'\n\n" +
-			"'It was I,' said the prisoner, 'who forged this chain very carefully. I thought my invincible power would hold the world captive leaving me in a freedom undisturbed. Thus night and day I worked at the chain with huge fires and cruel hard strokes. When at last the work was done and the links were complete and unbreakable, I found that it held me in its grip.' \n\n",
+		"'Prisoner, tell me, who was it that bound you?'\n\n",
+		"'It was my master,' said the prisoner. 'I thought I could outdo everybody in the world in wealth and power, and I amassed in my own treasure-house the money due to my king. When sleep overcame me I lay upon the bed that was for my lord, and on waking up I found I was a prisoner in my own treasure-house.'\n\n",
+		"'Prisoner, tell me, who was it that wrought this unbreakable chain?'\n\n",
+		"'It was I,' said the prisoner, 'who forged this chain very carefully. I thought my invincible power would hold the world captive leaving me in a freedom undisturbed. Thus night and day I worked at the chain with huge fires and cruel hard strokes. When at last the work was done and the links were complete and unbreakable, I found that it held me in its grip.' \n\n",
 	],
 
 	32: [
@@ -195,9 +195,9 @@ const verses = {
 	],
 
 	33: [
-		"When it was day they came into my house and said, 'We shall only take the smallest room here.'\n\n" +
-			"They said, 'We shall help you in the worship of your God and humbly accept only our own share in his grace'; and then they took their seat in a corner and they sat quiet and meek.\n\n" +
-			"But in the darkness of night I find they break into my sacred shrine, strong and turbulent, and snatch with unholy greed the offerings from God's altar. \n\n",
+		"When it was day they came into my house and said, 'We shall only take the smallest room here.'\n\n",
+		"They said, 'We shall help you in the worship of your God and humbly accept only our own share in his grace'; and then they took their seat in a corner and they sat quiet and meek.\n\n",
+		"But in the darkness of night I find they break into my sacred shrine, strong and turbulent, and snatch with unholy greed the offerings from God's altar. \n\n",
 	],
 
 	34: [
@@ -247,8 +247,8 @@ const verses = {
 		"Let the cloud of grace bend low from above like the tearful look of the mother on the day of the father's wrath.\n\n",
 	],
 	41: [
-		'Where dost thou stand behind them all, my lover, hiding thyself in the shadows? They push thee and pass thee by on the dusty road, taking thee for naught. I wait here weary hours spreading my offerings for thee, while passers by come and take my flowers, one by one, and my basket is nearly empty.' +
-			'The morning time is past, and the noon. In the shade of evening my eyes are drowsy with sleep. Men going home glance at me and smile and fill me with shame. I sit like a beggar maid, drawing my skirt over my face, and when they ask me, what it is I want, I drop my eyes and answer them not.\n\n',
+		'Where dost thou stand behind them all, my lover, hiding thyself in the shadows? They push thee and pass thee by on the dusty road, taking thee for naught. I wait here weary hours spreading my offerings for thee, while passers by come and take my flowers, one by one, and my basket is nearly empty.',
+		'The morning time is past, and the noon. In the shade of evening my eyes are drowsy with sleep. Men going home glance at me and smile and fill me with shame. I sit like a beggar maid, drawing my skirt over my face, and when they ask me, what it is I want, I drop my eyes and answer them not.\n\n',
 		'Oh, how, indeed, could I tell them that for thee I wait, and that thou hast promised to come. How could I utter for shame that I keep for my dowry this poverty. Ah, I hug this pride in the secret of my heart.\n\n',
 		'I sit on the grass and gaze upon the sky and dream of the sudden splendour of thy coming ⎯ all the lights ablaze, golden pennons flying over thy car, and they at the roadside standing agape, when they see thee come down from thy seat to raise me from the dust, and set at thy side this ragged beggar girl a-tremble with shame and pride, like a creeper in a summer breeze.\n\n',
 		'But time glides on and still no sound of the wheels of thy chariot. Many a procession passes by with noise and shouts and glamour of glory. Is it only thou who wouldst stand in the shadow silent and behind them all? And only I who would wait and weep and wear out my heart in vain longing?',
@@ -273,8 +273,8 @@ const verses = {
 	45: [
 		'Have you not heard his silent, steps?\n\n',
 		'He comes, comes, ever comes.\n\n',
-		"Every moment and every age, every day and every night he comes, comes, ever comes.Many a song have I sung in many a mood of mind, but all their notes have always proclaimed, 'He comes, comes, ever comes.'\n\n" +
-			'In the fragrant days of sunny April through the forest path he comes, comes, ever comes.\n\n',
+		"Every moment and every age, every day and every night he comes, comes, ever comes.Many a song have I sung in many a mood of mind, but all their notes have always proclaimed, 'He comes, comes, ever comes.'\n\n",
+		'In the fragrant days of sunny April through the forest path he comes, comes, ever comes.\n\n',
 		'In the rainy gloom of July nights on the thundering chariot of clouds he comes, comes, ever comes.\n\n',
 		'In sorrow after sorrow it is his steps that press upon my heart, and it is the golden touch of his feet that makes my joy to shine.',
 	],
@@ -307,22 +307,22 @@ const verses = {
 	50: [
 		'I had gone a-begging from door to door in the village path, when thy golden chariot appeared in the distance like a gorgeous dream and I wondered who was this King of all kings!\n\n',
 		'My hopes rose high and me thought my evil days were at an end, and I stood waiting for alms to be given unasked and for wealth scattered on all sides in the dust.\n\n',
-		"The chariot stopped where I stood. Thy glance fell on me and thou earnest down with a smile. I felt that the luck of my life had come at last. Then of a sudden thou didst hold out thy right hand and say 'What hast thou to give to me?'\n\n" +
-			'Ah, what a kingly jest was it to open thy palm to a beggar to beg! I was confused and stood undecided, and then from my wallet I slowly took out the least little grain of corn and gave it to thee.\n\n',
+		"The chariot stopped where I stood. Thy glance fell on me and thou earnest down with a smile. I felt that the luck of my life had come at last. Then of a sudden thou didst hold out thy right hand and say 'What hast thou to give to me?'\n\n",
+		'Ah, what a kingly jest was it to open thy palm to a beggar to beg! I was confused and stood undecided, and then from my wallet I slowly took out the least little grain of corn and gave it to thee.\n\n',
 		"But how great my surprise when at the day's end I emptied my bag on the floor to find a least little grain of gold among the poor heap. I bitterly wept and wished that I had had the heart to give thee my all. \n\n",
 	],
 	51: [
-		"The night darkened. Our day's works had been done. We thought that the last guest had arrived for the night and the doors in the village were all shut. Only some said, The king was to come. We laughed and said 'No, it cannot be!'\n\n" +
-			"It seemed there were knocks at the door and we said it was nothing but the wind. We put out the lamps and lay down to sleep. Only some said, 'It is the messenger!' We laughed and said 'No, it must be the wind!'\n\n" +
-			"There came a sound in the dead of the night. We sleepily thought it was the distant thunder. The earth shook, the walls rocked, and it troubled us in our sleep. Only some said, it was the sound of wheels. We said in a drowsy murmur, 'No, it must be the rumbling of clouds!'\n\n" +
-			"The night was still dark when the drum sounded. The voice came “Wake up! Delay not! 'We pressed our hands on our hearts and shuddered with fear. Some said, 'Lo, there is the king's flag!' We stood up on our feet and cried 'There is no time for delay!'\n\n" +
-			'The king has come but where are lights, where are wreaths? Where is the throne to seat him? Oh, shame! Oh utter shame! Where is the hall, the decorations? Some one has said, ;Vain is this cry! Greet him with empty hands, lead him into thy rooms all bare!;\n\n',
+		"The night darkened. Our day's works had been done. We thought that the last guest had arrived for the night and the doors in the village were all shut. Only some said, The king was to come. We laughed and said 'No, it cannot be!'\n\n",
+		"It seemed there were knocks at the door and we said it was nothing but the wind. We put out the lamps and lay down to sleep. Only some said, 'It is the messenger!' We laughed and said 'No, it must be the wind!'\n\n",
+		"There came a sound in the dead of the night. We sleepily thought it was the distant thunder. The earth shook, the walls rocked, and it troubled us in our sleep. Only some said, it was the sound of wheels. We said in a drowsy murmur, 'No, it must be the rumbling of clouds!'\n\n",
+		"The night was still dark when the drum sounded. The voice came “Wake up! Delay not! 'We pressed our hands on our hearts and shuddered with fear. Some said, 'Lo, there is the king's flag!' We stood up on our feet and cried 'There is no time for delay!'\n\n",
+		'The king has come but where are lights, where are wreaths? Where is the throne to seat him? Oh, shame! Oh utter shame! Where is the hall, the decorations? Some one has said, ;Vain is this cry! Greet him with empty hands, lead him into thy rooms all bare!;\n\n',
 		'Open the doors, let the conch-shells be sounded! In the depth of the night has come the king of our dark, dreary house. The thunder roars in the sky. The darkness shudders with lightning. Bring out thy tattered piece of mat and spread it in the courtyard. With the storm has come of a sudden our king of the fearful night.',
 	],
 	52: [
 		'I Thought I should ask of thee ⎯ but I dared not ⎯ the rose wreath thou hadst on thy neck. Thus I waited for the morning, when thou didst depart, to find a few fragments on the bed. And like a beggar I searched in the dawn only for a stray petal or two.\n\n',
-		"Ah me, what is it I find? What token left of thy love? It is no flower, no spices, no vase of perfumed water. It is thy mighty sword, flashing as a flame, heavy as a bolt of thunder. The young light of morning comes through the window and spreads itself upon thy bed. The morning bird twitters and asks, 'Woman, what hast thou got?' No, it is no flower, nor spices, nor vase of perfumed water ⎯ it is thy dreadful sword.\n\n" +
-			'I sit and muse in wonder, what gift is this of thine. I can find no place where to hide it. I am ashamed to wear it, frail as I am, and it hurts me when I press it to my bosom. Yet shall I bear in my heart this honour of the burden of pain, this gift of thine.From now there shall be no fear left for me in this world, and thou shalt be victorious in all my strife. Thou hast left death for my companion and I shall crown him with my life. Thy sword is with me to cut asunder my bonds, and there shall be no fear left for me in the world.\n\n',
+		"Ah me, what is it I find? What token left of thy love? It is no flower, no spices, no vase of perfumed water. It is thy mighty sword, flashing as a flame, heavy as a bolt of thunder. The young light of morning comes through the window and spreads itself upon thy bed. The morning bird twitters and asks, 'Woman, what hast thou got?' No, it is no flower, nor spices, nor vase of perfumed water ⎯ it is thy dreadful sword.\n\n",
+		'I sit and muse in wonder, what gift is this of thine. I can find no place where to hide it. I am ashamed to wear it, frail as I am, and it hurts me when I press it to my bosom. Yet shall I bear in my heart this honour of the burden of pain, this gift of thine.From now there shall be no fear left for me in this world, and thou shalt be victorious in all my strife. Thou hast left death for my companion and I shall crown him with my life. Thy sword is with me to cut asunder my bonds, and there shall be no fear left for me in the world.\n\n',
 		"From now I leave off all petty decorations. Lord of my heart, no more shall there be for me waiting and weeping in corners, no more coyness and sweetness of demeanour. Thou hast given me thy sword for adornment. No more doll's decorations for me!\n\n",
 	],
 	53: [
@@ -331,8 +331,8 @@ const verses = {
 		'Beautiful is thy wristlet, decked with starry gems; but thy sword, O lord of thunder, is wrought with uttermost beauty, terrible to behold or to think of.',
 	],
 	54: [
-		"I asked nothing from thee; I uttered not my name to thine ear. When thou took'st thy leave I stood silent. I was alone by the well where the shadow of the tree fell aslant, and the women had gone home with their brown earthen pitchers full to the brim. They called me and shouted, 'Come with us, the morning is wearing on to noon.' But I languidly lingered awhile lost in the midst of vague musings.\n\n" +
-			"I heard not thy steps as thou camest. Thine eyes were sad when they fell on me; thy voice was tired as thou spokest low ⎯ 'Ah, I am a thirsty traveller.' I started up from my day-dreams and poured water from my jar on thy joined palms. The leaves rustled overhead; the cuckoo sang from the unseen dark, and perfume of babla flowers came from the bend of the road.I stood speechless with shame when my name thou didst ask. Indeed, what had I done for thee to keep me in remembrance? But the memory that I could give water to thee to allay thy thirst will cling to my heart and enfold it in sweetness. The morning hour is late, the bird sings in weary notes, neem leaves rustle overhead and I sit and think and think.\n\n",
+		"I asked nothing from thee; I uttered not my name to thine ear. When thou took'st thy leave I stood silent. I was alone by the well where the shadow of the tree fell aslant, and the women had gone home with their brown earthen pitchers full to the brim. They called me and shouted, 'Come with us, the morning is wearing on to noon.' But I languidly lingered awhile lost in the midst of vague musings.\n\n",
+		"I heard not thy steps as thou camest. Thine eyes were sad when they fell on me; thy voice was tired as thou spokest low ⎯ 'Ah, I am a thirsty traveller.' I started up from my day-dreams and poured water from my jar on thy joined palms. The leaves rustled overhead; the cuckoo sang from the unseen dark, and perfume of babla flowers came from the bend of the road.I stood speechless with shame when my name thou didst ask. Indeed, what had I done for thee to keep me in remembrance? But the memory that I could give water to thee to allay thy thirst will cling to my heart and enfold it in sweetness. The morning hour is late, the bird sings in weary notes, neem leaves rustle overhead and I sit and think and think.\n\n",
 	],
 	55: [
 		'Langour is upon your heart and the slumber is still on your eyes.\n\n',
@@ -362,13 +362,13 @@ const verses = {
 	60: [
 		'On the seashore of endless worlds children meet. The infinite sky is motionless overhead and the restless water is boisterous. On the seashore of endless worlds the children meet with shouts and dances.They build their houses with sand and they play with empty shells. With withered leaves they weave their boats and smilingly float them on the vast deep. Children have their play on the seashore of worlds.\n\n',
 		'They know not how to swim, they know not how to cast nets. Pearl fishers dive for pearls, merchants sail in their ships, while children gather pebbles and scatter them again. They seek not for hidden treasures, they know not how to cast nets.\n\n',
-		"The sea surges up with laughter and pale gleams the smile of the sea beach. Death- dealing waves sing meaningless ballads to the children, even like a mother while rocking her baby's cradle. The sea plays with children, and pale gleams the smile of the sea beach.\n\n" +
-			'On the seashore of endless worlds children meet. Tempest roams in the pathless sky, ships get wrecked in the trackless water, death is abroad and children play. On the seashore of endless worlds is the great meeting of children.',
+		"The sea surges up with laughter and pale gleams the smile of the sea beach. Death- dealing waves sing meaningless ballads to the children, even like a mother while rocking her baby's cradle. The sea plays with children, and pale gleams the smile of the sea beach.\n\n",
+		'On the seashore of endless worlds children meet. Tempest roams in the pathless sky, ships get wrecked in the trackless water, death is abroad and children play. On the seashore of endless worlds is the great meeting of children.',
 	],
 	61: [
-		"The sleep that flits on baby's eyes ⎯ does anybody know from where it comes? Yes, there is a rumour that it has its dwelling where, in the fairy village among shadows of the forest dimly lit with glow-worms, there hang two timid buds of enchantment. From there it comes to kiss baby's eyes.\n\n" +
-			"The smile that flickers on baby's lips when he sleeps ⎯ does anybody know where it was born? Yes, there is a rumour that a young pale beam of a crescent moon touched the edge of a vanishing autumn cloud, and there the smile was first born in the dream of a dew-washed morning ⎯ the smile that flickers on baby's lips when he sleeps.\n\n" +
-			"The sweet, soft freshness that blooms on baby's limbs ⎯ does anybody know where it was hidden so long? Yes, when the mother was a young girl it lay pervading her heart in tender and silent mystery of love ⎯ the sweet, soft freshness that has bloomed on baby's limbs.\n\n",
+		"The sleep that flits on baby's eyes ⎯ does anybody know from where it comes? Yes, there is a rumour that it has its dwelling where, in the fairy village among shadows of the forest dimly lit with glow-worms, there hang two timid buds of enchantment. From there it comes to kiss baby's eyes.\n\n",
+		"The smile that flickers on baby's lips when he sleeps ⎯ does anybody know where it was born? Yes, there is a rumour that a young pale beam of a crescent moon touched the edge of a vanishing autumn cloud, and there the smile was first born in the dream of a dew-washed morning ⎯ the smile that flickers on baby's lips when he sleeps.\n\n",
+		"The sweet, soft freshness that blooms on baby's limbs ⎯ does anybody know where it was hidden so long? Yes, when the mother was a young girl it lay pervading her heart in tender and silent mystery of love ⎯ the sweet, soft freshness that has bloomed on baby's limbs.\n\n",
 	],
 	62: [
 		'When I bring to you coloured toys, my child, I understand why there is such a play of colours on clouds, on water, and why flowers are painted in tints ⎯ when I give coloured toys to you, my child.\n\n',
@@ -383,11 +383,11 @@ const verses = {
 		'When one knows thee, then alien there is none, then no door is shut. Oh, grant me my prayer that I may never lose the bliss of the touch of the one in the play of the many.',
 	],
 	64: [
-		"On the slope of the desolate river among tall grasses I asked her, 'Maiden, where do you go shading your lamp with your mantle? My house is all dark and lonesome ⎯ lend me your light!' She raised her dark eyes for a moment and looked at my face through the dusk. 'I have come to the river,' she said, 'to float my lamp on the stream when the daylight wanes in the west.' I stood alone among tall grasses and watched the timid flame of her lamp uselessly drifting in the tide.\n\n" +
-			"In the silence of gathering night I asked her, 'Maiden, your lights are all lit ⎯ then where do you go with your lamp? My house is all dark and lonesome, ⎯ lend me your light.”\n\n" +
-			"She raised her dark eyes on my face and stood for a moment doubtful. 'I have come,' she said at last, 'to dedicate my lamp to the sky.' I stood and watched her light uselessly burning in the void.\n\n" +
-			"In the moonless gloom of midnight I asked her, 'Maiden, what is your quest holding the lamp near your heart? My house is all dark and lonesome, ⎯ lend me your light.' She stopped for a minute and thought and gazed at my face in the dark. 'I have brought my\n\n" +
-			"light,' she said, 'to join the carnival of lamps.' I stood and watched her little lamp uselessly lost among lights.\n\n",
+		"On the slope of the desolate river among tall grasses I asked her, 'Maiden, where do you go shading your lamp with your mantle? My house is all dark and lonesome ⎯ lend me your light!' She raised her dark eyes for a moment and looked at my face through the dusk. 'I have come to the river,' she said, 'to float my lamp on the stream when the daylight wanes in the west.' I stood alone among tall grasses and watched the timid flame of her lamp uselessly drifting in the tide.\n\n",
+		"In the silence of gathering night I asked her, 'Maiden, your lights are all lit ⎯ then where do you go with your lamp? My house is all dark and lonesome, ⎯ lend me your light.”\n\n",
+		"She raised her dark eyes on my face and stood for a moment doubtful. 'I have come,' she said at last, 'to dedicate my lamp to the sky.' I stood and watched her light uselessly burning in the void.\n\n",
+		"In the moonless gloom of midnight I asked her, 'Maiden, what is your quest holding the lamp near your heart? My house is all dark and lonesome, ⎯ lend me your light.' She stopped for a minute and thought and gazed at my face in the dark. 'I have brought my\n\n",
+		"light,' she said, 'to join the carnival of lamps.' I stood and watched her little lamp uselessly lost among lights.\n\n",
 	],
 	65: [
 		'What divine drink wouldst thou have, my God, from this overflowing cup of my life?\n\n',
@@ -463,16 +463,16 @@ const verses = {
 		'And when my work shall be done in this world, O King of kings, alone and speechless shall I stand before thee face to face?',
 	],
 	77: [
-		"I know thee as my God and stand apart ⎯ I do not know thee as my own and come closer. I know thee as my father and bow before thy feet ⎯ I do not grasp thy hand as my friend's.\n\n" +
-			'I stand not where thou comest down and ownest thyself as mine, there to clasp thee to my heart and take thee as my comrade.\n\n',
+		"I know thee as my God and stand apart ⎯ I do not know thee as my own and come closer. I know thee as my father and bow before thy feet ⎯ I do not grasp thy hand as my friend's.\n\n",
+		'I stand not where thou comest down and ownest thyself as mine, there to clasp thee to my heart and take thee as my comrade.\n\n',
 		'Thou art the Brother amongst my brothers, but I heed them not, I divide not my earnings with them, thus sharing my all with thee.\n\n',
 		'In pleasure and in pain I stand not by the side of men, and thus stand by thee. I shrink to give up my life, and thus do not plunge into the great waters of life.',
 	],
 	78: [
-		"When the creation was new and all the stars shone in their first splendour, the gods held their assembly in the sky and sang 'Oh, the picture of perfection! The joy unalloyed!'\n\n" +
-			"But one cried of a sudden ⎯ 'It seems that somewhere there is a break in the chain of light and one of the stars has been lost.'\n\n" +
-			"The golden string of their harp snapped, their song stopped, and they cried in dismay ⎯ 'Yes, that lost star was the best, she was the glory of all heavens!'\n\n" +
-			'From that day the search is unceasing for her, and the cry goes on from one to the other that in her the world has lost its one joy!\n\n',
+		"When the creation was new and all the stars shone in their first splendour, the gods held their assembly in the sky and sang 'Oh, the picture of perfection! The joy unalloyed!'\n\n",
+		"But one cried of a sudden ⎯ 'It seems that somewhere there is a break in the chain of light and one of the stars has been lost.'\n\n",
+		"The golden string of their harp snapped, their song stopped, and they cried in dismay ⎯ 'Yes, that lost star was the best, she was the glory of all heavens!'\n\n",
+		'From that day the search is unceasing for her, and the cry goes on from one to the other that in her the world has lost its one joy!\n\n',
 		"Only in the deepest silence of night the stars smile and whisper among themselves ⎯ 'Vain is this seeking! Unbroken perfection is over all!'\n\n",
 	],
 	79: [
@@ -510,10 +510,10 @@ const verses = {
 		"It is this overspreading pain that deepens into loves and desires, into sufferings and joys in human homes; and this it is that ever melts and flows in songs through my poet's heart.\n\n",
 	],
 	85: [
-		"When the warriors came out first from their master's hall, where had they hid their power? Where were their armour and their arms?\n\n" +
-			"They looked poor and helpless, and the arrows were showered upon them on the day they came out from their master's hall.\n\n" +
-			"When the warriors marched back again to their master's hall where did they hide their power?\n\n" +
-			"They had dropped the sword and dropped the bow and the arrow; peace was on their foreheads, and they had left the fruits of their life behind them on the day they marched back again to their master's hall.\n\n",
+		"When the warriors came out first from their master's hall, where had they hid their power? Where were their armour and their arms?\n\n",
+		"They looked poor and helpless, and the arrows were showered upon them on the day they came out from their master's hall.\n\n",
+		"When the warriors marched back again to their master's hall where did they hide their power?\n\n",
+		"They had dropped the sword and dropped the bow and the arrow; peace was on their foreheads, and they had left the fruits of their life behind them on the day they marched back again to their master's hall.\n\n",
 	],
 	86: [
 		'Death, thy servant, is at my door. He has crossed the unknown sea and brought thy call to my home.\n\n',
@@ -536,9 +536,9 @@ const verses = {
 		'Only the deity of the ruined temple remains unworshipped in deathless neglect.',
 	],
 	89: [
-		"No more noisy, loud words from me ⎯ such is my master's will. Henceforth I deal in whispers. The speech of my heart will be carried on in murmurings of a song.\n\n" +
-			"Men hasten to the King's market. All the buyers and sellers are there. But I have my untimely leave in the middle of the day, in the thick of work.\n\n" +
-			'Let then the flowers come out in my garden, though it is not their time and let the midday bees strike up their lazy hum.\n\n',
+		"No more noisy, loud words from me ⎯ such is my master's will. Henceforth I deal in whispers. The speech of my heart will be carried on in murmurings of a song.\n\n",
+		"Men hasten to the King's market. All the buyers and sellers are there. But I have my untimely leave in the middle of the day, in the thick of work.\n\n",
+		'Let then the flowers come out in my garden, though it is not their time and let the midday bees strike up their lazy hum.\n\n',
 		'Full many an hour have I spent in the strife of the good and the evil, but now it is the pleasure of my playmate of the empty days to draw my heart on to him; and I know not why is this sudden call to what useless inconsequence!',
 	],
 	90: [
@@ -613,8 +613,8 @@ const verses = {
 		'They guided me all the day long to the mysteries of the country of pleasure and pain, and, at last, to what palace gate have they brought me in the evening at the end of my journey?',
 	],
 	102: [
-		"I boasted among men that I had known you. They see your pictures in all works of mine. They come and ask me, 'Who is he?' I know not how to answer them. I say, 'Indeed, I cannot tell.' They blame me and they go away in scorn. And you sit there smiling.\n\n" +
-			"I put my tales of you into lasting songs. The secret gushes out from my heart. They come and ask me, 'Tell me all your meanings.' I know not how to answer them. I say, 'Ah, who knows what they mean!' They smile and go away in utter scorn. And you sit there smiling.\n\n",
+		"I boasted among men that I had known you. They see your pictures in all works of mine. They come and ask me, 'Who is he?' I know not how to answer them. I say, 'Indeed, I cannot tell.' They blame me and they go away in scorn. And you sit there smiling.\n\n",
+		"I put my tales of you into lasting songs. The secret gushes out from my heart. They come and ask me, 'Tell me all your meanings.' I know not how to answer them. I say, 'Ah, who knows what they mean!' They smile and go away in utter scorn. And you sit there smiling.\n\n",
 	],
 	103: [
 		'In one salutation to thee, my God, let all my senses spread out and touch this world at thy feet.\n\n',
