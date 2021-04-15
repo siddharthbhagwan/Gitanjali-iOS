@@ -17,7 +17,7 @@ const Verse = ({ verseNo, text, setDrawer }) => {
 			<Text style={[styles.verse, styles.verseNo]}>{verseNo}</Text>
 			<ScrollView>
 				<Text style={[styles.verse]}>{text}</Text>
-				<View style={styles.verseEnd}></View>
+				<View style={styles.verseEnd} />
 			</ScrollView>
 		</TouchableOpacity>
 	);
